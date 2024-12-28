@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Quiz</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='style.css') }}">
+</head>
+
+<body>
+    <h1>Quiz</h1>
+    <form action="/submit_quiz" method="post">
+        {% for question in questions %}
+        <div class="question-container">
+            <p class="question">{{ loop.index }}. {{ question.question }}</p>
+            <div class="choices-container">
+                {% for choice in question.choices %}
+                <label>
+                    <input type="radio" name="question_{{ question.id }}" value="{{ choice }}" {% if
+                        user_answers.get('question_' + question.id|string )==choice %}checked{% endif %}>
+                    {{ choice }}
+                </label><br>
+                {% endfor %}
+            </div>
+        </div>
+        {% endfor %}
+        <br>
+        <button type="submit">Submit Quiz</button>
+    </form>
+    <a href="/">Back to Home</a>
+</body>
+
+</html>

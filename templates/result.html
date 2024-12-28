@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Quiz Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='style.css') }}">
+</head>
+
+<body>
+    <h1 class="result-heading">Quiz Result</h1>
+
+    {% if score == total_questions %}
+    <p class="result-text congrats">
+        🎉 You're a Quiz Master! 🎉<br>
+        You got all {{ score }} questions right!
+    </p>
+    {% elif score > total_questions/2 %}
+    <p class="result-text good-job">
+        Good Job! You got {{ score }} out of {{ total_questions }} right. Not bad!
+    </p>
+    {% else %}
+    <p class="result-text need-work">
+        Keep trying! You got {{ score }} out of {{ total_questions }} right.
+    </p>
+    {% endif %}
+    {% if score != total_questions%}
+    <h2>Correct Answers</h2>
+    <div class="correct-answers-container">
+        {% for question in submitted_questions %}
+        {% if not user_answers.get('question_' + question.id|string) == question.correct_answer %}
+        <p class="incorrect-answer">
+            <strong>Question:</strong> {{ question.question }}<br>
+            <strong>Your answer:</strong> {{user_answers.get('question_' + question.id|string) or "Not Attempted"}}<br>
+            <strong>Correct Answer:</strong> {{ question.correct_answer }}
+        </p>
+        {% endif %}
+        {% endfor %}
+    </div>
+    {% endif %}
+    <br>
+    <a href="/">Back to Home</a>
+</body>
+
+</html>

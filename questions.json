@@ -1,0 +1,3852 @@
+[
+    {
+        "id": 1,
+        "question": "Who was the father of Lord Rama?",
+        "choices": [
+            "King Dasaratha",
+            "King Janaka",
+            "King Bharata",
+            "King Ravana"
+        ],
+        "correct_answer": "King Dasaratha"
+    },
+    {
+        "id": 2,
+        "question": "What was the name of Lord Rama's kingdom?",
+        "choices": [
+            "Ayodhya",
+            "Mithila",
+            "Lanka",
+            "Hastinapura"
+        ],
+        "correct_answer": "Ayodhya"
+    },
+    {
+        "id": 3,
+        "question": "Who was Lord Rama's wife?",
+        "choices": [
+            "Sita",
+            "Urmila",
+            "Mandavi",
+            "Shrutakirti"
+        ],
+        "correct_answer": "Sita"
+    },
+    {
+        "id": 4,
+        "question": "Who was the author of the Ramayana?",
+        "choices": [
+            "Rishi Valmiki",
+            "Rishi Vishvamitra",
+            "Nārada Muni",
+            "Brahma deva"
+        ],
+        "correct_answer": "Rishi Valmiki"
+    },
+    {
+        "id": 5,
+        "question": "What was the name of the river by which Rishi Valmiki's ashram was located?",
+        "choices": [
+            "Sarayu",
+            "Tamasā",
+            "Gangā",
+            "Yamuna"
+        ],
+        "correct_answer": "Tamasā"
+    },
+    {
+        "id": 6,
+        "question": "What was the name of the meter used to compose both the Ramayana and the Mahabharata?",
+        "choices": [
+            "Anustup",
+            "Gayatri",
+            "Trishtubh",
+            "Jagati"
+        ],
+        "correct_answer": "Anustup"
+    },
+    {
+        "id": 7,
+        "question": "Who prompted Rishi Valmiki to narrate the life of Rama?",
+        "choices": [
+            "Nārada Muni",
+            "Brahma deva",
+            "Rishi Vashishtha",
+            "Rishi Vishvamitra"
+        ],
+        "correct_answer": "Brahma deva"
+    },
+    {
+        "id": 8,
+        "question": "What were the names of the two disciples who recited the Ramayana?",
+        "choices": [
+            "Lava and Kusha",
+            "Bharata and Shatrughna",
+            "Rama and Lakshmana",
+            "Vāli and Sugreeva"
+        ],
+        "correct_answer": "Lava and Kusha"
+    },
+    {
+        "id": 9,
+        "question": "What is the meaning of the name Seetā?",
+        "choices": [
+            "A furrow",
+            "A lotus",
+            "A river",
+            "A star"
+        ],
+        "correct_answer": "A furrow"
+    },
+    {
+        "id": 10,
+        "question": "Who was the progenitor of Ikshvāku dynasty?",
+        "choices": [
+            "Ikshvāku",
+            "Sagar",
+            "Raghu",
+            "Manu"
+        ],
+        "correct_answer": "Ikshvāku"
+    },
+    {
+        "id": 11,
+        "question": "Who is credited with bringing river Gangā to Earth?",
+        "choices": [
+            "Dasharatha",
+            "Sagar",
+            "Bhageeratha",
+            "Dilip"
+        ],
+        "correct_answer": "Bhageeratha"
+    },
+    {
+        "id": 12,
+        "question": "What is the name of Surya’s lineage, or the Solar dynasty?",
+        "choices": [
+            "Surya vamsha",
+            "Chandra vamsha",
+            "Ikshvāku vamsha",
+            "Raghu vamsha"
+        ],
+        "correct_answer": "Surya vamsha"
+    },
+    {
+        "id": 13,
+        "question": "What is the name of the dynasty in which King Janaka was born?",
+        "choices": [
+            "Ikshvāku vamsha",
+            "Raghu vamsha",
+            "Nimi lineage",
+            "Chandra vamsha"
+        ],
+        "correct_answer": "Nimi lineage"
+    },
+    {
+        "id": 14,
+        "question": "Who was the father of Ravana?",
+        "choices": [
+            "Rishi Pulastya",
+            "Rishi Vishrava",
+            "Sukesh",
+            "Sumāli"
+        ],
+        "correct_answer": "Rishi Vishrava"
+    },
+    {
+        "id": 15,
+        "question": "Which god gave Rāvana the Pushpak vimān?",
+        "choices": [
+            "Shiva",
+            "Vishnu",
+            "Indra",
+            "Brahma deva"
+        ],
+        "correct_answer": "Brahma deva"
+    },
+    {
+        "id": 16,
+        "question": "What were the names of Rāvana’s three powerful sons?",
+        "choices": [
+            "Malyavan, Sumali and Mali",
+            "Dashagreeva, Kumbhakarna and Vibhishana",
+            "Kumbha, Nikumbha and Meghanad",
+            "Rāvana, Kumbhakarna and Indrajeet"
+        ],
+        "correct_answer": "Kumbha, Nikumbha and Meghanad"
+    },
+    {
+        "id": 17,
+        "question": "What is the name of the condition that is similar to Kumbhakarna’s character in the Ramayana?",
+        "choices": [
+            "Klein-Levin syndrome",
+            "Down syndrome",
+            "Tourette’s syndrome",
+            "Autism"
+        ],
+        "correct_answer": "Klein-Levin syndrome"
+    },
+    {
+        "id": 18,
+        "question": "What were the names of the two sons of Rāvana born to Mandodari?",
+        "choices": [
+            "Indrajeet and Aksh",
+            "Kumbha and Nikumbha",
+            "Meghanad and Aksh",
+            "Kumbhakarna and Indrajeet"
+        ],
+        "correct_answer": "Meghanad and Aksh"
+    },
+    {
+        "id": 19,
+        "question": "What was the name of Rāvana's sister?",
+        "choices": [
+            "Tārā",
+            "Rumā",
+            "Shurpanakhā",
+            "Kaikasi"
+        ],
+        "correct_answer": "Shurpanakhā"
+    },
+    {
+        "id": 20,
+        "question": "Who was the king of vānara tribe in Kishkindha before Sugreeva?",
+        "choices": [
+            "Riksharāja",
+            "Vāli",
+            "Sugreeva",
+            "Hanumāna"
+        ],
+        "correct_answer": "Vāli"
+    },
+    {
+        "id": 21,
+        "question": "Who was Vāli's wife?",
+        "choices": [
+            "Rumā",
+            "Anjanā",
+            "Tārā",
+            "Māndavi"
+        ],
+        "correct_answer": "Tārā"
+    },
+    {
+        "id": 22,
+        "question": "According to the document, what does the word ‘Ārya’ mean?",
+        "choices": [
+            "A race of people",
+            "A gentlemanly quality",
+            "A civilised person",
+            "A person from Europe"
+        ],
+        "correct_answer": "A gentlemanly quality"
+    },
+    {
+        "id": 23,
+        "question": "What was the width of Ayodhya, as mentioned in the text?",
+        "choices": [
+            "3 yojanas",
+            "12 yojanas",
+            "10 yojanas",
+            "6000 sq km"
+        ],
+        "correct_answer": "3 yojanas"
+    },
+    {
+        "id": 24,
+        "question": "What was the length of Ayodhya, as mentioned in the text?",
+        "choices": [
+            "3 yojanas",
+            "12 yojanas",
+            "10 yojanas",
+            "6000 sq km"
+        ],
+        "correct_answer": "12 yojanas"
+    },
+    {
+        "id": 25,
+        "question": "Who is considered a saintly king according to the text?",
+        "choices": [
+            "Manu",
+            "Rāma",
+            "Dasharatha",
+            "Bharata"
+        ],
+        "correct_answer": "Dasharatha"
+    },
+    {
+        "id": 26,
+        "question": "Who designed the city of Lankā?",
+        "choices": [
+            "Vishvakarmā",
+            "Shilpa",
+            "Indra",
+            "Kuber"
+        ],
+        "correct_answer": "Vishvakarmā"
+    },
+    {
+        "id": 27,
+        "question": "What is the meaning of the word Rāvana?",
+        "choices": [
+            "One who makes the world cry",
+            "One who is a great warrior",
+            "One who is a great king",
+            "One who is a scholar of Vedas"
+        ],
+        "correct_answer": "One who makes the world cry"
+    },
+    {
+        "id": 28,
+        "question": "According to the text, which of these is not a prominent city or place from the Ramayana?",
+        "choices": [
+            "Mithilā",
+            "Kekaya",
+            "Hastinapur",
+            "Panchavati"
+        ],
+        "correct_answer": "Hastinapur"
+    },
+    {
+        "id": 29,
+        "question": "According to the text, what is the name of the ashram of Rishi Vishvāmitra?",
+        "choices": [
+            "Siddhāshram",
+            "Chitrakoot",
+            "Rishyamukha",
+            "Panchavati"
+        ],
+        "correct_answer": "Siddhāshram"
+    },
+    {
+        "id": 30,
+        "question": "Who were the two rākshasas that were disrupting Vishvāmitra's yajña?",
+        "choices": [
+            "Māreecha and Subāhu",
+            "Khara and Dushana",
+            "Kumbha and Nikumbha",
+            "Malyavan and Mali"
+        ],
+        "correct_answer": "Māreecha and Subāhu"
+    },
+    {
+        "id": 31,
+        "question": "What was the name of the knowledge that Vishvāmitra gave to Rama and Lakshmana to make them impervious to hunger and fatigue?",
+        "choices": [
+            "Brahma Vidya",
+            "Bala-Atibalā vidyā",
+            "Agni Vidya",
+            "Dhanurveda"
+        ],
+        "correct_answer": "Bala-Atibalā vidyā"
+    },
+    {
+        "id": 32,
+        "question": "Who was the rākshasi who used to live in the forest before Tātakā?",
+        "choices": [
+            "Simhikā",
+            "Rambha",
+            "Menakā",
+            "Shurpanakhā"
+        ],
+        "correct_answer": "Tātakā"
+    },
+    {
+        "id": 33,
+        "question": "Which divine instrument did Rama use to kill Tātakā?",
+        "choices": [
+            "Agneyāstra",
+            "Brahmāstra",
+            "Vayavyāstra",
+            "None of these"
+        ],
+        "correct_answer": "None of these"
+    },
+    {
+        "id": 34,
+        "question": "Where did Vamana avatar live for many years as per the text?",
+        "choices": [
+            "Ayodhya",
+            "Siddhāshram",
+            "Mithilā",
+            "Rishyamukha"
+        ],
+        "correct_answer": "Siddhāshram"
+    },
+    {
+        "id": 35,
+        "question": "What is the name of the bow of Shiva that was in the custody of King Janaka?",
+        "choices": [
+            "Shiva Dhanush",
+            "Pināka",
+            "Vijay",
+            "Shiva shastra"
+        ],
+        "correct_answer": "Shiva Dhanush"
+    },
+    {
+        "id": 36,
+        "question": "What is the term for valor or heroism as price?",
+        "choices": [
+            "Dhana shulka",
+            "Rājya shulka",
+            "Virya shulka",
+            "Swayamvara"
+        ],
+        "correct_answer": "Virya shulka"
+    },
+    {
+        "id": 37,
+        "question": "Who is considered a Brahmarshi, as per the text?",
+        "choices": [
+            "A king with the attributes of a sage",
+            "A sage who has realised Brahma, the ultimate truth",
+            "A sage who controls all the senses",
+            "A sage who performs rituals"
+        ],
+        "correct_answer": "A sage who has realised Brahma, the ultimate truth"
+    },
+    {
+        "id": 38,
+        "question": "What was the name of the king who desired to go to heaven in his earthly body?",
+        "choices": [
+            "Trishanku",
+            "Sagar",
+            "Brahma deva",
+            "Kaushika"
+        ],
+        "correct_answer": "Trishanku"
+    },
+    {
+        "id": 39,
+        "question": "What was the name of the celestial nymph who distracted Kaushika’s intense austerities?",
+        "choices": [
+            "Rambha",
+            "Menakā",
+            "Urvashi",
+            "Tilottama"
+        ],
+        "correct_answer": "Menakā"
+    },
+    {
+        "id": 40,
+        "question": "Who bestowed Brahmarshi-hood upon Kaushika?",
+        "choices": [
+            "Shiva",
+            "Indra",
+            "Brahma deva",
+            "Vishnu"
+        ],
+        "correct_answer": "Brahma deva"
+    },
+    {
+        "id": 41,
+        "question": "What is the meaning of the word Unārya as mentioned in the text?",
+        "choices": [
+            "A race of people",
+            "A person from Europe",
+            "An uncivilised, deceitful, cowardly person",
+            "A person from South India"
+        ],
+        "correct_answer": "An uncivilised, deceitful, cowardly person"
+    },
+    {
+        "id": 42,
+        "question": "According to the text, what was the colour of Rāma’s skin?",
+        "choices": [
+            "Fair",
+            "White",
+            "Dusky",
+            "Golden"
+        ],
+        "correct_answer": "Dusky"
+    },
+    {
+        "id": 43,
+        "question": "What is the name of the place where the Gangā emerges from the Himalayas and reaches Earth?",
+        "choices": [
+            "Gangotri",
+            "Gomukh",
+            "Devprayāg",
+            "Rishikesh"
+        ],
+        "correct_answer": "Gomukh"
+    },
+    {
+        "id": 44,
+        "question": "Who does Rāma refer to as the one who is ‘नियमतः’?",
+        "choices": [
+            "Kaikasi",
+            "Vibhishana",
+            "Māreecha",
+            "Seetā"
+        ],
+        "correct_answer": "Seetā"
+    },
+    {
+        "id": 45,
+        "question": "What was the name of the mantra that Rishi Agastya gave to Rāma?",
+        "choices": [
+            "Aditya Hridaya Stotra",
+            "Gayatri Mantra",
+            "Om Namah Shivaya",
+            "Vishnu Mantra"
+        ],
+        "correct_answer": "Aditya Hridaya Stotra"
+    },
+    {
+        "id": 46,
+        "question": "Who told Rāma about the location of Seetā in Lankā?",
+        "choices": [
+            "Jatāyu",
+            "Hanumāna",
+            "Sampāti",
+            "Sugreeva"
+        ],
+        "correct_answer": "Sampāti"
+    },
+    {
+        "id": 47,
+        "question": "What was the measurement of distance across the ocean that Hanumāna had to leap to reach Lankā?",
+        "choices": [
+            "One hundred yojanas",
+            "Three hundred yojanas",
+            "A thousand yojanas",
+            "A million yojanas"
+        ],
+        "correct_answer": "One hundred yojanas"
+    },
+    {
+        "id": 48,
+        "question": "Who was the chief queen of Rāvana?",
+        "choices": [
+            "Kaikasi",
+            "Tārā",
+            "Mandodari",
+            "Rumā"
+        ],
+        "correct_answer": "Mandodari"
+    },
+    {
+        "id": 49,
+        "question": "Who saved Rāma and Lakshmana when they were rendered unconscious by Indrajeet’s Brahmastra?",
+        "choices": [
+            "Hanumāna",
+            "Garuda",
+            "Vishnu",
+            "Shiva"
+        ],
+        "correct_answer": "Garuda"
+    },
+    {
+        "id": 50,
+        "question": "Who was the architect of the bridge made across the ocean to reach Lankā?",
+        "choices": [
+            "Nala",
+            "Neela",
+            "Hanumāna",
+            "Sugreeva"
+        ],
+        "correct_answer": "Nala"
+    },
+    {
+        "id": 51,
+        "question": "What did Rāma give to Hanumāna to give to Seetā as a sign of his identity?",
+        "choices": [
+            "A bow",
+            "A sword",
+            "A ring",
+            "A bracelet"
+        ],
+        "correct_answer": "A ring"
+    },
+    {
+        "id": 52,
+        "question": "What is the name of the forest in Lankā where Seetā was kept captive?",
+        "choices": [
+            "Dandakāranya",
+            "Ashokavātikā",
+            "Chitrakoot",
+            "Janasthāna"
+        ],
+        "correct_answer": "Ashokavātikā"
+    },
+    {
+        "id": 53,
+        "question": "What did Sugreeva give to Rāma to enable him to identify him easily?",
+        "choices": [
+            "A ring",
+            "A garland made of Gaja pushpa",
+            "A special bow",
+            "A sword"
+        ],
+        "correct_answer": "A garland made of Gaja pushpa"
+    },
+    {
+        "id": 54,
+        "question": "Who was Rāvana's son who captured and bound Hanumāna?",
+        "choices": [
+            "Aksh",
+            "Kumbha",
+            "Nikumbha",
+            "Indrajeet"
+        ],
+        "correct_answer": "Indrajeet"
+    },
+    {
+        "id": 55,
+        "question": "Who intervened to save Hanumāna’s life when Rāvana ordered that he be killed?",
+        "choices": [
+            "Kumbhakarna",
+            "Indrajeet",
+            "Vibhishana",
+            "Mandodari"
+        ],
+        "correct_answer": "Vibhishana"
+    },
+    {
+        "id": 56,
+        "question": "What did Rāvana do to punish Hanumāna?",
+        "choices": [
+            "Killed him",
+            "Imprisoned him",
+            "Banished him",
+            "Set fire to his tail and paraded him around Lankā"
+        ],
+        "correct_answer": "Set fire to his tail and paraded him around Lankā"
+    },
+    {
+        "id": 57,
+        "question": "According to the text, whose mind was completely deluded?",
+        "choices": [
+            "Sugreeva",
+            "Rāma",
+            "Vibhishana",
+            "Rāvana"
+        ],
+        "correct_answer": "Rāvana"
+    },
+    {
+        "id": 58,
+        "question": "Who is credited with bringing the herbs from the Himalayas to save Rāma and Lakshmana from death?",
+        "choices": [
+            "Vibhishana",
+            "Sugreeva",
+            "Hanumāna",
+            "Nala"
+        ],
+        "correct_answer": "Hanumāna"
+    },
+    {
+        "id": 59,
+        "question": "Who administered the herbs to Rāma and Lakshmana to restore them back to consciousness?",
+        "choices": [
+            "Hanumāna",
+            "Sugreeva",
+            "Sushena",
+            "Vibhishana"
+        ],
+        "correct_answer": "Sushena"
+    },
+    {
+        "id": 60,
+        "question": "What was the name of the weapon that struck Lakshmana, making him unconscious during the war with Rāvana?",
+        "choices": [
+            "Pāshupatāstra",
+            "Brahmāstra",
+            "Shakti",
+            "Agneyāstra"
+        ],
+        "correct_answer": "Shakti"
+    },
+    {
+        "id": 61,
+        "question": "According to the text, what is the meaning of the word 'sahadharmacharini'?",
+        "choices": [
+            "A friend",
+            "A companion",
+            "Equal partner in dharma",
+            "A life partner"
+        ],
+        "correct_answer": "Equal partner in dharma"
+    },
+    {
+        "id": 62,
+        "question": "What is the meaning of the term 'agni parikshā'?",
+        "choices": [
+            "A test of skill",
+            "A test of strength",
+            "A test of honesty",
+            "A test by fire"
+        ],
+        "correct_answer": "A test by fire"
+    },
+    {
+        "id": 63,
+        "question": "Which God vouched for Seetā’s purity after her agni parikshā?",
+        "choices": [
+            "Indra",
+            "Vishnu",
+            "Brahma deva",
+            "Agni deva"
+        ],
+        "correct_answer": "Agni deva"
+    },
+    {
+        "id": 64,
+        "question": "According to the text, what does Rāma Rājya signify?",
+        "choices": [
+            "A kingdom ruled by the best king",
+            "A peaceful and prosperous kingdom",
+            "A kingdom where citizens are always happy",
+            "A kingdom where the welfare of all citizens is paramount"
+        ],
+        "correct_answer": "A kingdom where the welfare of all citizens is paramount"
+    },
+    {
+        "id": 65,
+        "question": "What are the names of the twin sons born to Seetā in Valmiki’s ashram?",
+        "choices": [
+            "Lava and Kusha",
+            "Bharata and Shatrughna",
+            "Rama and Lakshmana",
+            "Vāli and Sugreeva"
+        ],
+        "correct_answer": "Lava and Kusha"
+    },
+    {
+        "id": 66,
+        "question": "What does the phrase ‘deva anugraha’ mean as used in the text?",
+        "choices": [
+            "God’s plan",
+            "God’s design",
+            "God’s grace",
+            "God’s wish"
+        ],
+        "correct_answer": "God’s grace"
+    },
+    {
+        "id": 67,
+        "question": "According to the text, who is ‘Mahātejasvi’?",
+        "choices": [
+            "Kaikasi",
+            "Anjanā",
+            "Mandodari",
+            "Pulastya’s wife"
+        ],
+        "correct_answer": "Pulastya’s wife"
+    },
+    {
+        "id": 68,
+        "question": "According to the text, which god granted the boon to Vāli which made him incredibly strong?",
+        "choices": [
+            "Indra",
+            "Vishnu",
+            "Shiva",
+            "None of the gods"
+        ],
+        "correct_answer": "None of the gods"
+    },
+    {
+        "id": 69,
+        "question": "According to the text, who is ‘Yajnavalkya’?",
+        "choices": [
+            "A king",
+            "A warrior",
+            "A rishi",
+            "A commander"
+        ],
+        "correct_answer": "A rishi"
+    },
+    {
+        "id": 70,
+        "question": "According to the text, who said to Rāvana, 'You are a sinner whose end is near'?",
+        "choices": [
+            "Sugreeva",
+            "Vibhishana",
+            "Hanumāna",
+            "Shurpanakhā"
+        ],
+        "correct_answer": "Vibhishana"
+    },
+    {
+        "id": 71,
+        "question": "Which place does the text describe as the playground of Bhagvān Shankar?",
+        "choices": [
+            "Kailash",
+            "Rishyamukha",
+            "Ayodhyā",
+            "Lankā"
+        ],
+        "correct_answer": "Kailash"
+    },
+    {
+        "id": 72,
+        "question": "According to the text, who was referred to as ‘The one who made the world cry’?",
+        "choices": [
+            "Indrajeet",
+            "Kumbhakarna",
+            "Rāvana",
+            "Vibhishana"
+        ],
+        "correct_answer": "Rāvana"
+    },
+    {
+        "id": 73,
+        "question": "What was the name of the mountain on which Lankā was located?",
+        "choices": [
+            "Trikuta",
+            "Suvela",
+            "Mahendra",
+            "Rishyamukha"
+        ],
+        "correct_answer": "Trikuta"
+    },
+    {
+        "id": 74,
+        "question": "Who is considered the most compassionate amongst the gods?",
+        "choices": [
+            "Indra",
+            "Vishnu",
+            "Brahma deva",
+            "Shiva"
+        ],
+        "correct_answer": "Shiva"
+    },
+    {
+        "id": 75,
+        "question": "Who told Rāma about his lineage?",
+        "choices": [
+            "Rishi Vashishtha",
+            "Rishi Vishvamitra",
+            "Nārada Muni",
+            "Bharata"
+        ],
+        "correct_answer": "Rishi Vashishtha"
+    },
+    {
+        "id": 76,
+        "question": "What did Rāma describe as being like strands of straw?",
+        "choices": [
+            "Devas",
+            "Asuras",
+            "Human beings",
+            "Rākshasas"
+        ],
+        "correct_answer": "Human beings"
+    },
+    {
+        "id": 77,
+        "question": "What was the name of Sugreeva’s wife?",
+        "choices": [
+            "Tārā",
+            "Rumā",
+            "Anjanā",
+            "Māndavi"
+        ],
+        "correct_answer": "Rumā"
+    },
+    {
+        "id": 78,
+        "question": "According to the text, who was married to Shurpanakhā?",
+        "choices": [
+            "Rāvana",
+            "Vidyutjihvā",
+            "Indrajeet",
+            "Khara"
+        ],
+        "correct_answer": "Vidyutjihvā"
+    },
+    {
+        "id": 79,
+        "question": "What does the text state about the lineage of Gautama Buddha?",
+        "choices": [
+            "He was from the Ikshvāku dynasty",
+            "He was from the Surya vamsha",
+            "He was from the Chandra vamsha",
+            "He was an avatar of Vishnu"
+        ],
+        "correct_answer": "He was a Suryavamshi, a descendant of Rāma"
+    },
+    {
+        "id": 80,
+        "question": "Who was the mother of Lakshmana and Shatrughna?",
+        "choices": [
+            "Kaushalya",
+            "Kaikeyi",
+            "Sumitrā",
+            "Māndavi"
+        ],
+        "correct_answer": "Sumitrā"
+    },
+    {
+        "id": 81,
+        "question": "What was the purpose for which Dasaratha conducted the Ashwamedha and Putreshti yajnas?",
+        "choices": [
+            "To have a grand celebration",
+            "To increase his wealth",
+            "To beget a successor",
+            "To showcase his power"
+        ],
+        "correct_answer": "To beget a successor"
+    },
+    {
+        "id": 82,
+        "question": "What were the names of the two rakshasas who interrupted Vishvāmitra’s yajna?",
+        "choices": [
+            "Shurpanakhā and Indrajeet",
+            "Khara and Dushana",
+            "Māreecha and Subāhu",
+            "Kumbha and Nikumbha"
+        ],
+        "correct_answer": "Māreecha and Subāhu"
+    },
+    {
+        "id": 83,
+        "question": "Where did Rāma, Lakshmana and Vishvāmitra go after a successful yajna?",
+        "choices": [
+            "Ayodhyā",
+            "Kishkindhā",
+            "Mithilā",
+            "Lankā"
+        ],
+        "correct_answer": "Mithilā"
+    },
+    {
+        "id": 84,
+        "question": "What was the special condition for the marriage of Seetā?",
+        "choices": [
+            "The suitor must win a battle",
+            "The suitor must lift the Shiva Dhanush",
+            "The suitor must have immense wealth",
+            "The suitor must be the most learned"
+        ],
+        "correct_answer": "The suitor must lift the Shiva Dhanush"
+    },
+    {
+        "id": 85,
+        "question": "Who was the royal priest of Ayodhyā?",
+        "choices": [
+            "Rishi Vishvamitra",
+            "Rishi Agastya",
+            "Rishi Vashishtha",
+            "Nārada Muni"
+        ],
+        "correct_answer": "Rishi Vashishtha"
+    },
+    {
+        "id": 86,
+        "question": "What was the name of the handmaiden who misled Kaikeyi about the coronation?",
+        "choices": [
+            "Urmila",
+            "Manthara",
+            "Sumitra",
+            "Mandavi"
+        ],
+        "correct_answer": "Manthara"
+    },
+    {
+        "id": 87,
+        "question": "How many boons did Dasaratha grant to Kaikeyi?",
+        "choices": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "correct_answer": "Two"
+    },
+    {
+        "id": 88,
+        "question": "What was the first place of dwelling of Rāma, Seetā and Lakshmana after being banished?",
+        "choices": [
+            "Ayodhyā",
+            "Panchavati",
+            "Chitrakoot",
+            "Dandakāranya"
+        ],
+        "correct_answer": "Chitrakoot"
+    },
+    {
+        "id": 89,
+        "question": "Who directed Rāma, Seetā and Lakshmana to stay in Chitrakoot?",
+        "choices": [
+            "Rishi Agastya",
+            "Rishi Vashishtha",
+            "Rishi Bharadwaja",
+            "Rishi Vishvamitra"
+        ],
+        "correct_answer": "Rishi Bharadwaja"
+    },
+    {
+        "id": 90,
+        "question": "Where did Rāma, Seetā and Lakshmana spend most of their vanvās?",
+        "choices": [
+            "Ayodhya",
+            "Chitrakoot",
+            "Dandakaranya",
+            "Lankā"
+        ],
+        "correct_answer": "Dandakaranya"
+    },
+    {
+        "id": 91,
+        "question": "Who introduced Rāma to Jatāyu?",
+        "choices": [
+            "Sumantra",
+            "Vibhishana",
+            "Rishi Agastya",
+            "Jatāyu himself"
+        ],
+        "correct_answer": "Jatāyu himself"
+    },
+    {
+        "id": 92,
+        "question": "Who disfigured Shurpanakha?",
+        "choices": [
+            "Rāma",
+            "Lakshmana",
+            "Rāvana",
+            "Both Rāma and Lakshmana"
+        ],
+        "correct_answer": "Lakshmana"
+    },
+    {
+        "id": 94,
+        "question": "Who did Rāvana send to lure Seetā before abducting her?",
+        "choices": [
+            "Khara",
+            "Dushana",
+            "Māreecha",
+            "Indrajeet"
+        ],
+        "correct_answer": "Māreecha"
+    },
+    {
+        "id": 95,
+        "question": "What form did Māreecha take to lure Seetā?",
+        "choices": [
+            "A golden deer",
+            "A rishi",
+            "A warrior",
+            "A bird"
+        ],
+        "correct_answer": "A golden deer"
+    },
+    {
+        "id": 96,
+        "question": "Who was Jatāyu?",
+        "choices": [
+            "The king of vānaras",
+            "A friend of Rāvana",
+            "A friend of Dasaratha",
+            "A rakshasa"
+        ],
+        "correct_answer": "A friend of Dasaratha"
+    },
+    {
+        "id": 97,
+        "question": "Which mountain were Sugreeva and his ministers hiding in?",
+        "choices": [
+            "Kailash",
+            "Rishyamukha",
+            "Chitrakoot",
+            "Mahendra"
+        ],
+        "correct_answer": "Rishyamukha"
+    },
+    {
+        "id": 98,
+        "question": "What caused the misunderstanding about Vali’s death in Kishkindha?",
+        "choices": [
+            "An attack by Ravana",
+            "A prophecy by a rishi",
+            "A fight with Māyāvi",
+            "A natural disaster"
+        ],
+        "correct_answer": "A fight with Māyāvi"
+    },
+    {
+        "id": 99,
+        "question": "Who took away Sugreeva’s wife, Rumā?",
+        "choices": [
+            "Rāvana",
+            "Māyāvi",
+            "Vāli",
+            "Indrajeet"
+        ],
+        "correct_answer": "Vāli"
+    },
+    {
+        "id": 100,
+        "question": "Who led Rāma and Lakshmana to Sugreeva in Kishkindha?",
+        "choices": [
+            "Jāmbavana",
+            "Tārā",
+            "Hanumāna",
+            "Neela"
+        ],
+        "correct_answer": "Hanumāna"
+    },
+    {
+        "id": 101,
+        "question": "What was the name of Hanumāna's mother?",
+        "choices": [
+            "Tārā",
+            "Anjanā",
+            "Rumā",
+            "Shabari"
+        ],
+        "correct_answer": "Anjanā"
+    },
+    {
+        "id": 102,
+        "question": "What did Sugreeva show Rāma which proved Seetā had been abducted?",
+        "choices": [
+            "Her jewelry",
+            "A piece of her garment",
+            "Her letter",
+            "A note"
+        ],
+        "correct_answer": "Her jewelry"
+    },
+    {
+        "id": 103,
+        "question": "Who gave Rāma his ring to prove his credentials to Seetā?",
+        "choices": [
+            "Bharata",
+            "Sugreeva",
+            "Vibhishana",
+            "Rāma himself"
+        ],
+        "correct_answer": "Rāma himself"
+    },
+    {
+        "id": 104,
+        "question": "Where did Hanumāna find Seetā in Lanka?",
+        "choices": [
+            "In Ravana’s palace",
+            "In the forest",
+            "In Ashokavātikā",
+            "By the sea"
+        ],
+        "correct_answer": "In Ashokavātikā"
+    },
+    {
+        "id": 105,
+        "question": "Who offered to rescue Seetā and take her to Kishkindha right away?",
+        "choices": [
+            "Sugreeva",
+            "Angada",
+            "Jatāyu",
+            "Hanumāna"
+        ],
+        "correct_answer": "Hanumāna"
+    },
+    {
+        "id": 106,
+        "question": "Why did Seetā refuse to be rescued and taken to Kishkindhā right away?",
+        "choices": [
+            "She wanted to wait for Rāma",
+            "She didn't trust Hanumāna",
+            "She was scared of Vāli",
+            "She didn't want to leave Lankā"
+        ],
+        "correct_answer": "She wanted to wait for Rāma"
+    },
+    {
+        "id": 107,
+        "question": "What did Hanumāna do to catch the attention of the rakshasas?",
+        "choices": [
+            "Ravaged the Ashoka forest",
+            "Shouted loudly",
+            "Started a fire",
+            "Started fighting the soldiers"
+        ],
+        "correct_answer": "Ravaged the Ashoka forest"
+    },
+    {
+        "id": 108,
+        "question": "Which powerful rakshasa caught Hanumāna?",
+        "choices": [
+            "Rāvana",
+            "Kumbhakarna",
+            "Indrajeet",
+            "Prahasta"
+        ],
+        "correct_answer": "Indrajeet"
+    },
+    {
+        "id": 109,
+        "question": "What did Hanumāna do after his tail was set on fire?",
+        "choices": [
+            "Ran away",
+            "Fainted",
+            "Jumped into the ocean",
+            "Ravaged the city, setting it on fire"
+        ],
+        "correct_answer": "Ravaged the city, setting it on fire"
+    },
+    {
+        "id": 110,
+        "question": "Who made the bridge across the sea for Rāma and his army to reach Lanka?",
+        "choices": [
+            "Hanumāna",
+            "Angada",
+            "Nala",
+            "Neela"
+        ],
+        "correct_answer": "Nala"
+    },
+    {
+        "id": 111,
+        "question": "Which of Rāvana’s ministers backed his decision to keep Seetā captive?",
+        "choices": [
+            "Vibhishana",
+            "Kumbhakarna",
+            "None of the above",
+            "All of the above"
+        ],
+        "correct_answer": "None of the above"
+    },
+    {
+        "id": 112,
+        "question": "What was the only boon Vibhishana asked for?",
+        "choices": [
+            "Immortality",
+            "To be very powerful",
+            "To remain steadfast in dharma",
+            "To be crowned as the king of Lankā"
+        ],
+        "correct_answer": "To remain steadfast in dharma"
+    },
+    {
+        "id": 113,
+        "question": "Who did Rāma send to Rāvana’s court to give him a last chance to return Seetā?",
+        "choices": [
+            "Hanumāna",
+            "Sugreeva",
+            "Lakshmana",
+            "Angada"
+        ],
+        "correct_answer": "Angada"
+    },
+    {
+        "id": 114,
+        "question": "Who is said to be a celestial being who had the power to tie down his opponent?",
+        "choices": [
+            "Vibhishana",
+            "Kumbhakarna",
+            "Indrajeet",
+            "Māreecha"
+        ],
+        "correct_answer": "Indrajeet"
+    },
+    {
+        "id": 115,
+        "question": "What did Hanuman bring from the Himalayas to revive Rāma and Lakshmana after the Brahmāstra attack?",
+        "choices": [
+            "A mountain of herbs",
+            "A special weapon",
+            "A special potion",
+            "A divine stone"
+        ],
+        "correct_answer": "A mountain of herbs"
+    },
+    {
+        "id": 116,
+        "question": "Who killed Indrajeet?",
+        "choices": [
+            "Rāma",
+            "Lakshmana",
+            "Hanumāna",
+            "Sugreeva"
+        ],
+        "correct_answer": "Lakshmana"
+    },
+    {
+        "id": 117,
+        "question": "What was Rāvana’s end?",
+        "choices": [
+            "He was killed by Indrajeet",
+            "He was killed by Lakshmana",
+            "He was killed by Hanumāna",
+            "He was killed by Rāma"
+        ],
+        "correct_answer": "He was killed by Rāma"
+    },
+    {
+        "id": 118,
+        "question": "Who did Rāma send to bring Seetā after killing Rāvana?",
+        "choices": [
+            "Hanumāna",
+            "Lakshmana",
+            "Vibhishana",
+            "Indrajeet"
+        ],
+        "correct_answer": "Vibhishana"
+    },
+    {
+        "id": 119,
+        "question": "What did Rāma ask Seetā to do to prove her chastity?",
+        "choices": [
+            "To touch fire",
+            "To swear on her honor",
+            "To drink poison",
+            "To confess to the rākshasas"
+        ],
+        "correct_answer": "To light a pyre"
+    },
+    {
+        "id": 120,
+        "question": "Who vouched for Seetā's purity of thoughts and actions?",
+        "choices": [
+            "Brahma deva",
+            "Vishnu",
+            "Shiva",
+            "Agni deva"
+        ],
+        "correct_answer": "Agni deva"
+    },
+    {
+        "id": 121,
+        "question": "According to the text, where did the entourage of Rāma arrive after making a stop in Kishkindhā?",
+        "choices": [
+            "Ayodhyā",
+            "Lankā",
+            "Prayāg",
+            "Chitrakoot"
+        ],
+        "correct_answer": "Prayāg"
+    },
+    {
+        "id": 122,
+        "question": "Who was sent by Rāma to inform Bharata of their arrival in Ayodhyā?",
+        "choices": [
+            "Lakshmana",
+            "Vibhishana",
+            "Sugreeva",
+            "Hanumāna"
+        ],
+        "correct_answer": "Hanumāna"
+    },
+    {
+        "id": 123,
+        "question": "According to the text, what was the name of the kingdom of Rāma seen as?",
+        "choices": [
+            "A just kingdom",
+            "A kingdom of dharma",
+            "A kingdom of righteousness",
+            "A kingdom of happiness and prosperity"
+        ],
+        "correct_answer": "A kingdom of happiness and prosperity"
+    },
+    {
+        "id": 124,
+        "question": "According to the text, who gave shelter to Seetā in his ashram?",
+        "choices": [
+            "Rishi Vishvamitra",
+            "Rishi Bharadwaja",
+            "Rishi Vālmiki",
+            "Rishi Agastya"
+        ],
+        "correct_answer": "Rishi Vālmiki"
+    },
+    {
+        "id": 125,
+        "question": "According to the text, who is credited with teaching the Ramayana to Lava and Kusha?",
+        "choices": [
+            "Rishi Vishvamitra",
+            "Rishi Bharadwaja",
+            "Rishi Valmiki",
+            "Rishi Agastya"
+        ],
+        "correct_answer": "Rishi Valmiki"
+    },
+    {
+        "id": 126,
+        "question": "According to the text, what is the name of the yajna that Rāma undertook on the advice of his ministers?",
+        "choices": [
+            "Putreshti yajna",
+            "Ashwamedha Yajna",
+            "Vishnu Yajna",
+            "Brahma Yajna"
+        ],
+        "correct_answer": "Ashwamedha Yajna"
+    },
+    {
+        "id": 127,
+        "question": "Which two brothers moved to the heavenly abode along with Rāma?",
+        "choices": [
+            "Lakshmana and Bharata",
+            "Bharata and Sugreeva",
+            "Lakshmana and Sugreeva",
+            "Bharata and Shatrughna"
+        ],
+        "correct_answer": "Bharata and Sugreeva"
+    },
+    {
+        "id": 128,
+        "question": "Who stayed back on earth to narrate the story of the Ramayana?",
+        "choices": [
+            "Vibhishana",
+            "Sugreeva",
+            "Hanumāna",
+            "Bharata"
+        ],
+        "correct_answer": "Hanumāna"
+    },
+    {
+        "id": 129,
+        "question": "In the Rāmāyana, what are the purushārthas that are key to living a worthwhile and fruitful life?",
+        "choices": [
+            "dharma and artha",
+            "artha and kāma",
+            "dharma, artha, kāma and moksha",
+            "dharma and moksha"
+        ],
+        "correct_answer": "dharma, artha, kāma and moksha"
+    },
+    {
+        "id": 130,
+        "question": "Which place did Kaikeyi’s parents belong to?",
+        "choices": [
+            "Videha",
+            "Kosala",
+            "Kekaya",
+            "Lanka"
+        ],
+        "correct_answer": "Kekaya"
+    },
+    {
+        "id": 131,
+        "question": "According to the text, what were the names of the two most controversial events in the Uttara Kānda?",
+        "choices": [
+            "The killing of Kumbhakarna and Indrajeet",
+            "Rāma’s marriage to Seetā and the killing of Vāli",
+            "The abandonment of pregnant Seetā and the killing of Shambuka",
+            "The construction of the bridge to Lanka and the war"
+        ],
+        "correct_answer": "The abandonment of pregnant Seetā and the killing of Shambuka"
+    },
+    {
+        "id": 132,
+        "question": "What does the text say about Rāma’s understanding of dharma?",
+        "choices": [
+            "He follows it blindly",
+            "He understands it fully",
+            "He strives to live by it",
+            "He lives it"
+        ],
+        "correct_answer": "He understands it fully"
+    },
+    {
+        "id": 133,
+        "question": "According to the text, what was the objective of the rishis in narrating the lives of ancestors?",
+        "choices": [
+            "To teach people ethics",
+            "To instill fear about their culture",
+            "To help people understand their history",
+            "To instruct people in the purusharthas"
+        ],
+        "correct_answer": "To instruct people in the purusharthas"
+    },
+    {
+        "id": 134,
+        "question": "What is the meaning of itihāsa in the context used in the text?",
+        "choices": [
+            "Stories of the past",
+            "A mythical story",
+            "The history of ancestors",
+            "A literary text"
+        ],
+        "correct_answer": "The history of ancestors"
+    },
+    {
+        "id": 135,
+        "question": "What did Rāma say about the reason for his decision to accept exile?",
+        "choices": [
+            "He wanted to prove his father wrong",
+            "He wanted to follow his destiny",
+            "He wanted to obey his father and his words",
+            "He wanted to prove his love for his mother"
+        ],
+        "correct_answer": "He wanted to obey his father and his words"
+    },
+    {
+        "id": 136,
+        "question": "What was the name of the city where Seetā was from?",
+        "choices": [
+            "Ayodhya",
+            "Lanka",
+            "Mithilā",
+            "Kishkindhā"
+        ],
+        "correct_answer": "Mithilā"
+    },
+    {
+        "id": 137,
+        "question": "What was the name of the bow that Rāma strung and broke in Mithilā?",
+        "choices": [
+            "Vishnu Dhanush",
+            "Shiva Dhanush",
+            "Agni Dhanush",
+            "Indra Dhanush"
+        ],
+        "correct_answer": "Shiva Dhanush"
+    },
+    {
+        "id": 138,
+        "question": "According to the text, what were the names of the two royal gurus of Dasharatha?",
+        "choices": [
+            "Vashishtha and Vālmiki",
+            "Vashishtha and Vāmdeva",
+            "Vishvamitra and Agastya",
+            "Vishvamitra and Vālmiki"
+        ],
+        "correct_answer": "Vashishtha and Vāmdeva"
+    },
+    {
+        "id": 139,
+        "question": "Where did Bharata choose to live and administer the kingdom from?",
+        "choices": [
+            "The palace in Ayodhyā",
+            "An āshram in Ayodhyā",
+            "An āshram in Nandigrām",
+            "The forest near Chitrakoot"
+        ],
+        "correct_answer": "An āshram in Nandigrām"
+    },
+    {
+        "id": 140,
+        "question": "How many years of vanvās did Rāma accept from Kaikeyi?",
+        "choices": [
+            "Ten years",
+            "Twelve years",
+            "Fourteen years",
+            "Sixteen years"
+        ],
+        "correct_answer": "Fourteen years"
+    },
+    {
+        "id": 141,
+        "question": "What did Bharata place on his head while governing the kingdom?",
+        "choices": [
+            "The crown",
+            "A scepter",
+            "Rāma’s sandals",
+            "A sword"
+        ],
+        "correct_answer": "Rāma’s sandals"
+    },
+    {
+        "id": 142,
+        "question": "Who was the elder brother of Jatāyu?",
+        "choices": [
+            "Angada",
+            "Sampāti",
+            "Hanumāna",
+            "Vāli"
+        ],
+        "correct_answer": "Sampāti"
+    },
+    {
+        "id": 143,
+        "question": "Where was Sugreeva given refuge by Rishi Matanga?",
+        "choices": [
+            "Kishkindhā",
+            "Ashoka Vatika",
+            "Rishyamukha",
+            "Panchavati"
+        ],
+        "correct_answer": "Rishyamukha"
+    },
+    {
+        "id": 144,
+        "question": "What was the name of the bow that Rāma used to kill Māreecha?",
+        "choices": [
+            "Brahmāstra",
+            "Mānavāstra",
+            "Agneyāstra",
+            "Vayavyāstra"
+        ],
+        "correct_answer": "Mānavāstra"
+    },
+    {
+        "id": 145,
+        "question": "What was the name of the celestial weapon that killed Subāhu?",
+        "choices": [
+            "Brahmāstra",
+            "Mānavāstra",
+            "Agneyāstra",
+            "Vayavyāstra"
+        ],
+        "correct_answer": "Agneyāstra"
+    },
+    {
+        "id": 146,
+        "question": "What was the name of the celestial weapon that killed the rest of the rakshasas with Subāhu and Māreecha?",
+        "choices": [
+            "Brahmāstra",
+            "Mānavāstra",
+            "Agneyāstra",
+            "Vayavyāstra"
+        ],
+        "correct_answer": "Vayavyāstra"
+    },
+    {
+        "id": 147,
+        "question": "Who is said to have been a great admirer of Seetā’s beauty as stated in the text?",
+        "choices": [
+            "Vāli",
+            "Indra",
+            "Rāvana",
+            "Kuber"
+        ],
+        "correct_answer": "Rāvana"
+    },
+    {
+        "id": 148,
+        "question": "According to the text, who was referred to as a 'Rājarshi'?",
+        "choices": [
+            "Rāma",
+            "Vishvamitra",
+            "Dasharatha",
+            "Vāli"
+        ],
+        "correct_answer": "Dasharatha"
+    },
+    {
+        "id": 149,
+        "question": "According to the text, who are referred to as the 'five illustrious women' of the Indian epics?",
+        "choices": [
+            "Seetā, Draupadi, Kunti, Tārā and Mandodari",
+            "Ahalyā, Draupadi, Kunti, Tārā and Mandodari",
+            "Seetā, Shurpanakha, Kaikeyi, Tārā and Mandodari",
+            "Seetā, Draupadi, Kunti, Anjanā and Māndavi"
+        ],
+        "correct_answer": "Ahalyā, Draupadi, Kunti, Tārā and Mandodari"
+    },
+    {
+        "id": 150,
+        "question": "What did Brahma deva tell Rishi Vālmiki about the Ramayana’s existence?",
+        "choices": [
+            "It will only last till the devas’ existence",
+            "It will only last till the end of time",
+            "It will flourish in the world as long as mountains stand and rivers flow on earth",
+            "It will only be remembered by great sages and seers"
+        ],
+        "correct_answer": "It will flourish in the world as long as mountains stand and rivers flow on earth"
+    },
+    {
+        "id": 151,
+        "question": "According to the text, which two sons of Dasharatha were twins?",
+        "choices": [
+            "Rama and Bharata",
+            "Bharata and Shatrughna",
+            "Lakshmana and Shatrughna",
+            "Lava and Kusha"
+        ],
+        "correct_answer": "Lakshmana and Shatrughna"
+    },
+    {
+        "id": 152,
+        "question": "Who was the mother of Bharata?",
+        "choices": [
+            "Kaushalya",
+            "Kaikeyi",
+            "Sumitra",
+            "Māndavi"
+        ],
+        "correct_answer": "Kaikeyi"
+    },
+    {
+        "id": 153,
+        "question": "According to the text, which is the original source of information for the character of Rishi Valmiki?",
+        "choices": [
+            "Rāmāyana",
+            "Mahabharata",
+            "Skanda Purāna",
+            "Yoga Vashishtha"
+        ],
+        "correct_answer": "Skanda Purāna"
+    },
+    {
+        "id": 154,
+        "question": "What does the word 'parākram' mean as mentioned in the text?",
+        "choices": [
+            "Beauty",
+            "Charity",
+            "Valor",
+            "Wisdom"
+        ],
+        "correct_answer": "Valor"
+    },
+    {
+        "id": 155,
+        "question": "Which rishi was referred to as 'the friend of the world' in the text?",
+        "choices": [
+            "Rishi Agastya",
+            "Rishi Valmiki",
+            "Rishi Vishvamitra",
+            "Rishi Vashishtha"
+        ],
+        "correct_answer": "Rishi Vishvamitra"
+    },
+    {
+        "id": 156,
+        "question": "What does the text mention about the relationship between Vāli and Rāvana?",
+        "choices": [
+            "They were enemies",
+            "They were distant relatives",
+            "They were great friends",
+            "They were not on good terms"
+        ],
+        "correct_answer": "They were great friends"
+    },
+    {
+        "id": 157,
+        "question": "Who was the mother of Vāli and Sugreeva?",
+        "choices": [
+            "Rikshārāni",
+            "Tārā",
+            "Rumā",
+            "None of these"
+        ],
+        "correct_answer": "None of these"
+    },
+    {
+        "id": 158,
+        "question": "What was the name of Indra’s vāhan (vehicle)?",
+        "choices": [
+            "Pushpak vimān",
+            "Gaja",
+            "Garuda",
+            "Nandi"
+        ],
+        "correct_answer": "Pushpak vimān"
+    },
+    {
+        "id": 159,
+        "question": "What was the name of the mountain at the southern coast where Lankā was located?",
+        "choices": [
+            "Trikuta",
+            "Kailash",
+            "Suvel",
+            "Vindhya"
+        ],
+        "correct_answer": "Suvel"
+    },
+    {
+        "id": 160,
+        "question": "According to the text, who are the two known for their 'brahma-balam'?",
+        "choices": [
+            "Vishnu and Shiva",
+            "Rāma and Lakshmana",
+            "Vashishtha and Vishvāmitra",
+            "Brahma deva and Vishnu"
+        ],
+        "correct_answer": "Vashishtha and Vishvāmitra"
+    },
+    {
+        "id": 161,
+        "question": "What was the name of the cow of Rishi Vashishtha?",
+        "choices": [
+            "Kamadhenu",
+            "Shabalā",
+            "Nandini",
+            "Surabhi"
+        ],
+        "correct_answer": "Shabalā"
+    },
+    {
+        "id": 162,
+        "question": "What did Vashishtha call his cow?",
+        "choices": [
+            "The wish-fulfilling cow",
+            "The power cow",
+            "The wonder cow",
+            "The gift of the gods"
+        ],
+        "correct_answer": "The wish-fulfilling cow"
+    },
+    {
+        "id": 163,
+        "question": "Where was Vāli forbidden to enter by Rishi Matanga?",
+        "choices": [
+            "Ayodhyā",
+            "Lankā",
+            "Kishkindhā",
+            "Rishyamukha"
+        ],
+        "correct_answer": "Rishyamukha"
+    },
+    {
+        "id": 164,
+        "question": "What were the names of the two places devastated by the rākshasi Tātakā?",
+        "choices": [
+            "Malada and Karusha",
+            "Ayodhya and Mithilā",
+            "Lanka and Kishkindhā",
+            "Chitrakoot and Panchavati"
+        ],
+        "correct_answer": "Maladā and Karushā"
+    },
+    {
+        "id": 165,
+        "question": "What was the boon that Rāvana’s mother, Kaikasi had?",
+        "choices": [
+            "She would give birth to extremely powerful sons",
+            "Her children would be the most virtuous kings",
+            "She would have the blessings of all the gods",
+            "She could choose her husband and decide when to give birth"
+        ],
+        "correct_answer": "She would give birth to extremely powerful sons"
+    },
+    {
+        "id": 166,
+        "question": "According to the text, where did Rāvana seek boons to gain invincibility?",
+        "choices": [
+            "Kailāsh",
+            "Gokarna",
+            "Himālayas",
+            "In the cave"
+        ],
+        "correct_answer": "Gokarna"
+    },
+    {
+        "id": 167,
+        "question": "What did Sugreeva do after being defeated by Vāli?",
+        "choices": [
+            "He surrendered to Vāli",
+            "He challenged Vāli again",
+            "He fled to Rishyamukha",
+            "He committed suicide"
+        ],
+        "correct_answer": "He fled to Rishyamukha"
+    },
+    {
+        "id": 168,
+        "question": "What was the message that Rāvana sent to Kuber?",
+        "choices": [
+            "To give up Lankā to Rāvana as it belonged to the rākshasas",
+            "To be his friend again",
+            "To let Rāvana use the Pushpak Vimān",
+            "To provide him military strength"
+        ],
+        "correct_answer": "To give up Lankā to Rāvana as it belonged to the rākshasas"
+    },
+    {
+        "id": 169,
+        "question": "According to the text, who was the first one to call Rāma as ‘Gāndharva shreshtha’?",
+        "choices": [
+            "Rishi Vashishtha",
+            "Rishi Vishvamitra",
+            "Nārada Muni",
+            "The people of Ayodhyā"
+        ],
+        "correct_answer": "The people of Ayodhyā"
+    },
+    {
+        "id": 170,
+        "question": "According to the text, what was the name of the city near the confluence of Ganga and Sarayu?",
+        "choices": [
+            "Shringaverpur",
+            "Panchavati",
+            "Kishkindhā",
+            "Ayodhyā"
+        ],
+        "correct_answer": "Shringaverpur"
+    },
+    {
+        "id": 171,
+        "question": "According to the text, which celestial weapon was used by Rāma to kill Rāvana?",
+        "choices": [
+            "Brahmāstra",
+            "Agneyāstra",
+            "Shakti",
+            "None of these"
+        ],
+        "correct_answer": "None of these"
+    },
+    {
+        "id": 172,
+        "question": "What was the meaning of ‘jala dāna’ as mentioned in the text?",
+        "choices": [
+            "Donating water",
+            "Cleaning water",
+            "Offering water to deceased ancestors",
+            "Purifying water"
+        ],
+        "correct_answer": "Offering water to deceased ancestors"
+    },
+    {
+        "id": 173,
+        "question": "Which of Rāvana’s ministers advised him to let go of Seetā and avert a war with Rāma?",
+        "choices": [
+            "Kumbhakarna",
+            "Prahasta",
+            "Indrajeet",
+            "Vibhishana"
+        ],
+        "correct_answer": "Vibhishana"
+    },
+    {
+        "id": 174,
+        "question": "Which of these does not apply to what a Brahmarshi represents?",
+        "choices": [
+            "A king with attributes of a sage",
+            "A sage who has realised Brahma",
+            "A sage who has mastered senses",
+            "A sage who is at the top of the order"
+        ],
+        "correct_answer": "A king with attributes of a sage"
+    },
+    {
+        "id": 175,
+        "question": "What does the text state as the meaning of adharma?",
+        "choices": [
+            "Truth and morality",
+            "That which leads to sustainability of society",
+            "That which is aligned with one's duty",
+            "That which leads to unsustainability and destruction"
+        ],
+        "correct_answer": "That which leads to unsustainability and destruction"
+    },
+    {
+        "id": 176,
+        "question": "According to the text, who was the original ancestor of Chandra vamsha (Lunar Dynasty)?",
+        "choices": [
+            "Manu",
+            "Budha",
+            "Soma",
+            "Vivasvān"
+        ],
+        "correct_answer": "Vivasvān"
+    },
+    {
+        "id": 177,
+        "question": "Who was the son of Soma?",
+        "choices": [
+            "Manu",
+            "Budha",
+            "Ilā",
+            "Pururavā"
+        ],
+        "correct_answer": "Budha"
+    },
+    {
+        "id": 178,
+        "question": "According to the text, what was one of the important qualities of the people of Ayodhyā?",
+        "choices": [
+            "They were wealthy and had everything",
+            "They were kind and generous",
+            "They were virtuous and self-restrained",
+            "They were loyal to their king"
+        ],
+        "correct_answer": "They were virtuous and self-restrained"
+    },
+    {
+        "id": 179,
+        "question": "According to the text, who was called ‘Yama’?",
+        "choices": [
+            "Rāma",
+            "Vāli",
+            "Dharma",
+            "Indra"
+        ],
+        "correct_answer": "Dharma"
+    },
+    {
+        "id": 180,
+        "question": "What does the text state as one of Rāma's qualities with which he conquered the enemy?",
+        "choices": [
+            "His wisdom",
+            "His valour",
+            "His compassion",
+            "The strength of his bow"
+        ],
+        "correct_answer": "The strength of his bow"
+    },
+    {
+        "id": 182,
+        "question": "According to the text, which quality should a king possess to ensure peace and prosperity in the state?",
+        "choices": [
+            "Strength",
+            "Wealth",
+            "Righteousness",
+            "Generosity"
+        ],
+        "correct_answer": "Righteousness"
+    },
+    {
+        "id": 183,
+        "question": "According to the text, who did Rāma compare Hanumāna to in terms of might?",
+        "choices": [
+            "Indra",
+            "Vishnu",
+            "Vāyu deva",
+            "Garuda"
+        ],
+        "correct_answer": "Vāyu deva"
+    },
+    {
+        "id": 184,
+        "question": "According to the text, where did Rāma send Seetā after his concerns about her chastity arose?",
+        "choices": [
+            "The royal palace",
+            "Lanka",
+            "The forest near Ganga",
+            "The forest near Yamuna"
+        ],
+        "correct_answer": "The forest near Ganga"
+    },
+    {
+        "id": 185,
+        "question": "According to the text, who did Lakshmana offer to accompany if Rāma decided to go to vanvās?",
+        "choices": [
+            "Bharata",
+            "Sugreeva",
+            "Seetā",
+            "Rāma"
+        ],
+        "correct_answer": "Rāma"
+    },
+    {
+        "id": 186,
+        "question": "What did Rāma order Lakshmana to do to Seetā, after hearing of rumours regarding her character?",
+        "choices": [
+            "To kill her",
+            "To send her to Lanka",
+            "To send her to forest",
+            "To give her back to Janaka"
+        ],
+        "correct_answer": "To send her to forest"
+    },
+    {
+        "id": 187,
+        "question": "What was the cause of Rāma's grief, according to the text, after knowing his kingdom's rumour regarding Seetā?",
+        "choices": [
+            "He was worried about Seetā’s safety",
+            "He wanted the public to see his authority",
+            "He was worried about his reputation",
+            "He felt he had made a wrong choice"
+        ],
+        "correct_answer": "He was worried about his reputation"
+    },
+    {
+        "id": 188,
+        "question": "According to the text, what did Seetā do after being exiled?",
+        "choices": [
+            "She fought back",
+            "She requested Rāma to get her back",
+            "She called upon mother earth to take her back",
+            "She started to learn black magic"
+        ],
+        "correct_answer": "She called upon mother earth to take her back"
+    },
+    {
+        "id": 189,
+        "question": "What does the term 'maun vrata' refer to, in the text?",
+        "choices": [
+            "A fast unto death",
+            "A prayer",
+            "A vow of silence",
+            "A fire ritual"
+        ],
+        "correct_answer": "A vow of silence"
+    },
+    {
+        "id": 190,
+        "question": "According to the text, who was the chief of the vānaras?",
+        "choices": [
+            "Hanumāna",
+            "Jāmbavana",
+            "Sugreeva",
+            "Vāli"
+        ],
+        "correct_answer": "Vāli"
+    },
+    {
+        "id": 191,
+        "question": "According to the text, what did Mantharā say would be the fate of Bharata if Rāma became the king?",
+        "choices": [
+            "He would become a slave",
+            "He would be killed",
+            "He would be banished",
+            "He would become a non-entity"
+        ],
+        "correct_answer": "He would become a non-entity"
+    },
+    {
+        "id": 192,
+        "question": "According to the text, what did Dasharatha say that was the only task left for him to do?",
+        "choices": [
+            "To lead his army",
+            "To build a new city",
+            "To find a suitable bride for Bharata",
+            "To crown Rāma as the king"
+        ],
+        "correct_answer": "To crown Rāma as the king"
+    },
+    {
+        "id": 193,
+        "question": "According to the text, who was the first one to refer to Rāma as ‘रामो लोकाभिरामो’?",
+        "choices": [
+            "A citizen of Ayodhyā",
+            "A citizen of Mithilā",
+            "A citizen of Kishkindha",
+            "A citizen of Lanka"
+        ],
+        "correct_answer": "A citizen of Ayodhyā"
+    },
+    {
+        "id": 194,
+        "question": "According to the text, who was called 'the friend of the world'?",
+        "choices": [
+            "Rishi Valmiki",
+            "Rishi Agastya",
+            "Rishi Vishvamitra",
+            "Nārada Muni"
+        ],
+        "correct_answer": "Rishi Vishvamitra"
+    },
+    {
+        "id": 195,
+        "question": "What does ‘Nishādarāj’ mean, in the text?",
+        "choices": [
+            "The king of the forest",
+            "The king of Ayodhyā",
+            "The king of Nishādas",
+            "The king of the demons"
+        ],
+        "correct_answer": "The king of Nishādas"
+    },
+    {
+        "id": 196,
+        "question": "According to the text, what did Rāma give his charioteer as a reward for his work?",
+        "choices": [
+            "A kingdom",
+            "A palace",
+            "A thousand cows",
+            "Gold coins"
+        ],
+        "correct_answer": "A thousand cows"
+    },
+    {
+        "id": 197,
+        "question": "What was the reason Rāma didn’t want to return when Bharata called him?",
+        "choices": [
+            "He didn't want to rule the kingdom",
+            "He was angry with his father",
+            "He didn't want to break his promise to his father",
+            "He was afraid of facing Kaikeyi"
+        ],
+        "correct_answer": "He didn't want to break his promise to his father"
+    },
+    {
+        "id": 198,
+        "question": "According to the text, what did Bharata declare he would do instead of ruling the kingdom?",
+        "choices": [
+            "He would live in a cave and meditate",
+            "He would become a hermit",
+            "He would serve the people",
+            "He would manage the kingdom as a custodian of Rama"
+        ],
+        "correct_answer": "He would manage the kingdom as a custodian of Rama"
+    },
+    {
+        "id": 199,
+        "question": "According to the text, who was the one who was instrumental in making the people of Ayodhya accept Rāma as their heir?",
+        "choices": [
+            "Rishi Vashishtha",
+            "Rishi Vishvamitra",
+            "Bharata",
+            "Nārada Muni"
+        ],
+        "correct_answer": "The people of Ayodhya"
+    },
+    {
+        "id": 200,
+        "question": "What did Dasharatha request Rāma to do when he informed him of the coronation?",
+        "choices": [
+            "To listen to his advice",
+            "To be humble and alert",
+            "To be kind to all citizens",
+            "To be a fair ruler"
+        ],
+        "correct_answer": "To be humble and alert"
+    },
+    {
+        "id": 201,
+        "question": "According to the text, who was the first one to convey the news of Rāma’s exile to Seetā?",
+        "choices": [
+            "Hanumāna",
+            "Rāma",
+            "Lakshmana",
+            "Sumantra"
+        ],
+        "correct_answer": "Rāma"
+    },
+    {
+        "id": 202,
+        "question": "What did Seeta’s father, Janaka say about her?",
+        "choices": [
+            "She is his most precious jewel",
+            "She is a gift from mother Earth",
+            "She is his sahadharmacharini",
+            "She is his greatest achievement"
+        ],
+        "correct_answer": "She is his sahadharmacharini"
+    },
+    {
+        "id": 203,
+        "question": "What did Seetā use to remove the thorns from her path, when she decided to go with Rāma into the forest?",
+        "choices": [
+            "Her dress",
+            "Her arrows",
+            "Her magic",
+            "Her hands"
+        ],
+        "correct_answer": "Her hands"
+    },
+    {
+        "id": 204,
+        "question": "According to the text, which was the place from where Rāvana abducted Seetā?",
+        "choices": [
+            "Ayodhyā",
+            "Panchavati",
+            "Kishkindhā",
+            "Lankā"
+        ],
+        "correct_answer": "Panchavati"
+    },
+    {
+        "id": 205,
+        "question": "According to the text, what was the one quality that Rāma greatly admired in his brother Lakshmana?",
+        "choices": [
+            "His bravery",
+            "His obedience",
+            "His intelligence",
+            "His unfailing support"
+        ],
+        "correct_answer": "His unfailing support"
+    },
+    {
+        "id": 206,
+        "question": "According to the text, who are the ones for whom Rāma is a ‘Gāndharva shreshtha’?",
+        "choices": [
+            "Those who are skilled in warfare",
+            "Those who are skilled in statecraft",
+            "Those who are skilled in music",
+            "Those who are skilled in music and art"
+        ],
+        "correct_answer": "Those who are skilled in music and art"
+    },
+    {
+        "id": 207,
+        "question": "Who was the king of the Nishādas, with whom Rāma was good friends?",
+        "choices": [
+            "Angada",
+            "Guha",
+            "Vāli",
+            "Sugreeva"
+        ],
+        "correct_answer": "Guha"
+    },
+    {
+        "id": 208,
+        "question": "What does 'pādukā' mean, according to the text?",
+        "choices": [
+            "The crown",
+            "A royal weapon",
+            "Sandals",
+            "A signet ring"
+        ],
+        "correct_answer": "Sandals"
+    },
+    {
+        "id": 209,
+        "question": "According to the text, what was the meaning of the word 'valmiki'?",
+        "choices": [
+            "A forest",
+            "An anthill",
+            "A mountain",
+            "A city"
+        ],
+        "correct_answer": "An anthill"
+    },
+    {
+        "id": 210,
+        "question": "According to the text, what did Bharata do to show his resolve to act as a custodian of Rāma's kingdom?",
+        "choices": [
+            "He took an oath",
+            "He took Rāma’s sandals and carried them on his head",
+            "He promised to live an austere life",
+            "He agreed to administer the kingdom for 14 years"
+        ],
+        "correct_answer": "He took Rāma’s sandals and carried them on his head"
+    },
+    {
+        "id": 211,
+        "question": "According to the text, what was one of the aspects that was considered most important in Vālmiki's Rāmāyana?",
+        "choices": [
+            "The emotions of Rāma",
+            "Rāvana's villainy",
+            "The brilliance of Rishi Valmiki",
+            "Rāma's decision-making"
+        ],
+        "correct_answer": "Rāma's decision-making"
+    },
+    {
+        "id": 212,
+        "question": "According to the text, in which part of the Ramayana do the events of Shambuka vadha and the abandonment of Seetā occur?",
+        "choices": [
+            "Bala Kanda",
+            "Yuddha Kanda",
+            "Uttara Kanda",
+            "Aranya Kanda"
+        ],
+        "correct_answer": "Uttara Kanda"
+    },
+    {
+        "id": 213,
+        "question": "According to the text, what did Rāma not want to be sullied by?",
+        "choices": [
+            "Personal emotions",
+            "Biases",
+            "Short-term gratifications",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above"
+    },
+    {
+        "id": 214,
+        "question": "According to the text, what did Rāma say to Lakshmana about the reasons for his decision to accept vanvās?",
+        "choices": [
+            "That they should go against their father's wish",
+            "That his decision was based on dharma",
+            "That he didn't want to face Kaikeyi",
+            "That he did not care about the opinions of others"
+        ],
+        "correct_answer": "That he wanted to obey his father and his words"
+    },
+    {
+        "id": 215,
+        "question": "What was the name of the place where Rāma and his people met Rishi Bharadwāja?",
+        "choices": [
+            "Prayag",
+            "Nandigrām",
+            "Chitrakoot",
+            "Janasthāna"
+        ],
+        "correct_answer": "Prayag"
+    },
+    {
+        "id": 216,
+        "question": "According to the text, what was the name of the city where Rāma was supposed to be crowned?",
+        "choices": [
+            "Mithilā",
+            "Kishkindhā",
+            "Ayodhyā",
+            "Lankā"
+        ],
+        "correct_answer": "Ayodhyā"
+    },
+    {
+        "id": 217,
+        "question": "According to the text, who advised Rāvana to give up seeking Seetā?",
+        "choices": [
+            "Kumbhakarna",
+            "Indrajeet",
+            "Malyavān",
+            "Mandodari"
+        ],
+        "correct_answer": "Malyavān"
+    },
+    {
+        "id": 218,
+        "question": "According to the text, who was the wife of Vāli?",
+        "choices": [
+            "Rumā",
+            "Tārā",
+            "Anjana",
+            "Māndavi"
+        ],
+        "correct_answer": "Tārā"
+    },
+    {
+        "id": 219,
+        "question": "Which of the following is not mentioned as a source of information by the author?",
+        "choices": [
+            "Valmiki Ramayana",
+            "Skanda Purana",
+            "Srimad Bhagavad Geeta",
+            "Arthashastra"
+        ],
+        "correct_answer": "Arthashastra"
+    },
+    {
+        "id": 220,
+        "question": "According to the text, what does ‘Brahma-Balam’ refer to?",
+        "choices": [
+            "The strength of the devas",
+            "The physical strength of a Brahmarshi",
+            "The mental and spiritual strength of a Brahmarshi",
+            "The weapons of a Brahmarshi"
+        ],
+        "correct_answer": "The mental and spiritual strength of a Brahmarshi"
+    },
+    {
+        "id": 221,
+        "question": "According to the text, what was the nature of the people of Ayodhyā?",
+        "choices": [
+            "They were happy and wealthy",
+            "They were always singing the glory of Rāma",
+            "They were virtuous, strong and content",
+            "They were well-mannered, but greedy"
+        ],
+        "correct_answer": "They were virtuous, strong and content"
+    },
+    {
+        "id": 222,
+        "question": "According to the text, who did Rāma say was ‘like the lord of death himself’?",
+        "choices": [
+            "Vāli",
+            "Kumbhakarna",
+            "Rāvana",
+            "Māreecha"
+        ],
+        "correct_answer": "Rāvana"
+    },
+    {
+        "id": 223,
+        "question": "According to the text, what was Dasharatha most fearful of?",
+        "choices": [
+            "Losing his kingdom",
+            "Losing his sons",
+            "Losing his wealth",
+            "Losing his life"
+        ],
+        "correct_answer": "Losing his life"
+    },
+    {
+        "id": 224,
+        "question": "According to the text, who did Rāma say was capable of reining in the rakshasas?",
+        "choices": [
+            "Vishvamitra",
+            "Vashishtha",
+            "Himself",
+            "Lakshmana"
+        ],
+        "correct_answer": "Vishvamitra"
+    },
+    {
+        "id": 225,
+        "question": "According to the text, what was Hanumāna well versed in?",
+        "choices": [
+            "Vedas and Upanishads",
+            "Art and music",
+            "Politics and warfare",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above"
+    },
+    {
+        "id": 226,
+        "question": "According to the text, who was the last commander of Rāvana killed in the battle?",
+        "choices": [
+            "Kumbhakarna",
+            "Indrajeet",
+            "Makarāksha",
+            "Rāvana"
+        ],
+        "correct_answer": "Rāvana"
+    },
+    {
+        "id": 227,
+        "question": "According to the text, who did the devas ask to test Hanumāna's might?",
+        "choices": [
+            "Tātakā",
+            "Shurpanakhā",
+            "Surasā",
+            "Lankini"
+        ],
+        "correct_answer": "Surasā"
+    },
+    {
+        "id": 228,
+        "question": "According to the text, what was said to be like a sharply turning wheel of fire?",
+        "choices": [
+            "Rāma’s arrow",
+            "The power of Vāli",
+            "The edge of Rāma's golden bow",
+            "The fire around Lakshmana"
+        ],
+        "correct_answer": "The edge of Rāma's golden bow"
+    },
+    {
+        "id": 229,
+        "question": "Who was the sārthi of Indra who came to help Rāma?",
+        "choices": [
+            "Pushpak",
+            "Mātāli",
+            "Nala",
+            "None of the above"
+        ],
+        "correct_answer": "Mātāli"
+    },
+    {
+        "id": 230,
+        "question": "According to the text, what was the name of the weapon that struck Lakshmana, making him unconscious?",
+        "choices": [
+            "Brahmāstra",
+            "Pāshupatāstra",
+            "Shakti",
+            "Aindrāstra"
+        ],
+        "correct_answer": "Shakti"
+    },
+    {
+        "id": 231,
+        "question": "According to the text, what was the name of the celestial weapon that Rāma used to kill Rāvana?",
+        "choices": [
+            "Agneyāstra",
+            "Vayavyāstra",
+            "Brahmāstra",
+            "None of these"
+        ],
+        "correct_answer": "None of these"
+    },
+    {
+        "id": 232,
+        "question": "Which rishi gave Rāma the powerful and divine weapon used to kill Rāvana?",
+        "choices": [
+            "Rishi Vashishtha",
+            "Rishi Vishvamitra",
+            "Rishi Agastya",
+            "Rishi Bharadwaja"
+        ],
+        "correct_answer": "Rishi Agastya"
+    },
+    {
+        "id": 233,
+        "question": "According to the text, what did Brahma deva praise Seetā for?",
+        "choices": [
+            "Her wisdom",
+            "Her beauty",
+            "Her bravery",
+            "Her purity and chastity"
+        ],
+        "correct_answer": "Her purity and chastity"
+    },
+    {
+        "id": 234,
+        "question": "According to the text, who advised Dasharatha to declare Rāma as his successor?",
+        "choices": [
+            "His ministers",
+            "His citizens",
+            "His family members",
+            "His ministers and citizens"
+        ],
+        "correct_answer": "His ministers and citizens"
+    },
+    {
+        "id": 235,
+        "question": "According to the text, who described Rāma as ‘सत्य पराक्रम’?",
+        "choices": [
+            "Rishi Vishvamitra",
+            "Rishi Vashishtha",
+            "Māreecha",
+            "Nārada Muni"
+        ],
+        "correct_answer": "Māreecha"
+    },
+    {
+        "id": 236,
+        "question": "According to the text, who did Rāma described as a person, ‘who is weak cannot ever live peacefully by antagonising the stronger person’?",
+        "choices": [
+            "Lakshmana",
+            "Sugreeva",
+            "Vāli",
+            "Rāvana"
+        ],
+        "correct_answer": "Sugreeva"
+    },
+    {
+        "id": 237,
+        "question": "According to the text, what is a ‘kāla chakra’?",
+        "choices": [
+            "A deadly weapon",
+            "The wheel of dharma",
+            "The cycle of time",
+            "The wheel of destruction"
+        ],
+        "correct_answer": "The wheel of destruction"
+    },
+    {
+        "id": 238,
+        "question": "According to the text, what is the meaning of ‘putra’?",
+        "choices": [
+            "A son of a king",
+            "A virtuous man",
+            "One who saves his father from falling into hell",
+            "One who has great courage"
+        ],
+        "correct_answer": "One who saves his father from falling into hell"
+    },
+    {
+        "id": 239,
+        "question": "According to the text, what was the last act of Rāma before he left to Dandakāranya?",
+        "choices": [
+            "He took a bath in the Ganga",
+            "He worshipped his ancestors",
+            "He ensured all had been given their dues and responsibilities",
+            "He asked for the blessings of his mothers"
+        ],
+        "correct_answer": "He ensured all had been given their dues and responsibilities"
+    },
+    {
+        "id": 240,
+        "question": "According to the text, what did Rishis tell Dasharatha about Rāma?",
+        "choices": [
+            "That he was destined to be the king",
+            "That he was the most compassionate",
+            "That he was exceptionally mature and virtuous",
+            "That he was the best warrior ever to be born"
+        ],
+        "correct_answer": "That he was exceptionally mature and virtuous"
+    },
+    {
+        "id": 241,
+        "question": "According to the text, who did Rama describe as 'my well-wisher'?",
+        "choices": [
+            "Lakshmana",
+            "Sugreeva",
+            "Hanumāna",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above"
+    },
+    {
+        "id": 242,
+        "question": "According to the text, what does Rāma compare himself to when he talks about not being able to win against destiny?",
+        "choices": [
+            "A river",
+            "A mountain",
+            "An ocean",
+            "A leaf"
+        ],
+        "correct_answer": "A leaf"
+    },
+    {
+        "id": 243,
+        "question": "Who does Rāma blame for their separation?",
+        "choices": [
+            "Kaikeyi",
+            "Himself",
+            "Fate",
+            "Rāvana"
+        ],
+        "correct_answer": "Fate"
+    },
+    {
+        "id": 244,
+        "question": "According to the text, which of these is not a quality that is ascribed to Rāma by others?",
+        "choices": [
+            "Virtuous",
+            "Steadfast",
+            "Caring",
+            "Envious"
+        ],
+        "correct_answer": "Envious"
+    },
+    {
+        "id": 245,
+        "question": "According to the text, who are the ones to follow a virtuous path?",
+        "choices": [
+            "Only rishis and ascetics",
+            "Only kings and ministers",
+            "Only Brahmins",
+            "Everyone"
+        ],
+        "correct_answer": "Everyone"
+    },
+    {
+        "id": 246,
+        "question": "According to the text, who was referred to as ‘Pitāmaha’?",
+        "choices": [
+            "Shiva",
+            "Vishnu",
+            "Indra",
+            "Brahma deva"
+        ],
+        "correct_answer": "Brahma deva"
+    },
+    {
+        "id": 247,
+        "question": "According to the text, what does ‘shraddhā’ imply?",
+        "choices": [
+            "Devotion",
+            "Worldview",
+            "Faith",
+            "Beliefs"
+        ],
+        "correct_answer": "Worldview"
+    },
+    {
+        "id": 248,
+        "question": "According to the text, what was the boon that Brahma deva had given to Rāvana?",
+        "choices": [
+            "A boon of invincibility",
+            "A boon of strength",
+            "A boon of wealth",
+            "A boon of near immortality"
+        ],
+        "correct_answer": "A boon of near immortality"
+    },
+    {
+        "id": 249,
+        "question": "According to the text, what was one of the many reasons why Rāvana wanted to abduct Seetā?",
+        "choices": [
+            "To trouble Rāma",
+            "To avenge his sister",
+            "He was overcome with her beauty",
+            "He had lost his kingdom"
+        ],
+        "correct_answer": "He was overcome with her beauty"
+    },
+    {
+        "id": 250,
+        "question": "According to the text, who was known as a great warrior and a great administrator?",
+        "choices": [
+            "Bharata",
+            "Lakshmana",
+            "Rāma",
+            "Hanumāna"
+        ],
+        "correct_answer": "Rāma"
+    },
+    {
+        "id": 251,
+        "question": "According to the text, what did Jatāyu say when he was dying?",
+        "choices": [
+            "He couldn’t remember the name of the rākshasa",
+            "He wasn’t able to give a clue about Rāvana’s location",
+            "He was unable to save Seetā",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above"
+    },
+    {
+        "id": 252,
+        "question": "According to the text, who was referred to as 'one with a steadfast mind'?",
+        "choices": [
+            "Vibhishana",
+            "Rāma",
+            "Sugreeva",
+            "Hanumāna"
+        ],
+        "correct_answer": "Rāma"
+    },
+    {
+        "id": 253,
+        "question": "According to the text, what quality did Vāli have that was described as ‘unmatched’?",
+        "choices": [
+            "His strength",
+            "His wisdom",
+            "His fighting spirit",
+            "His generosity"
+        ],
+        "correct_answer": "His strength"
+    },
+    {
+        "id": 254,
+        "question": "According to the text, who was known as ‘the one who made the world cry’?",
+        "choices": [
+            "Shurpanakhā",
+            "Indrajeet",
+            "Kumbhakarna",
+            "Rāvana"
+        ],
+        "correct_answer": "Rāvana"
+    },
+    {
+        "id": 255,
+        "question": "According to the text, what was Shurpanakha’s true motive for describing Seetā to Rāvana?",
+        "choices": [
+            "To make Rāvana help her",
+            "To seek revenge on Rāma",
+            "To get Rāvana to abduct Seetā",
+            "To get Rāvana to fight Rāma"
+        ],
+        "correct_answer": "To get Rāvana to abduct Seetā"
+    },
+    {
+        "id": 256,
+        "question": "According to the text, who called Rāvana ‘a vile and unrighteous man’?",
+        "choices": [
+            "Rishi Vashishtha",
+            "Rishi Valmiki",
+            "Māreecha",
+            "Shurpanakhā"
+        ],
+        "correct_answer": "Māreecha"
+    },
+    {
+        "id": 257,
+        "question": "According to the text, who gave Hanumāna the Pushpak Vimān?",
+        "choices": [
+            "Indra",
+            "Brahma deva",
+            "Kuber",
+            "Rāvana"
+        ],
+        "correct_answer": "Brahma deva"
+    },
+    {
+        "id": 258,
+        "question": "According to the text, who was the younger brother of Rāvana?",
+        "choices": [
+            "Indrajeet",
+            "Kumbhakarna",
+            "Vibhishana",
+            "Aksha"
+        ],
+        "correct_answer": "Vibhishana"
+    },
+    {
+        "id": 259,
+        "question": "According to the text, which of these qualities does not apply to a Brahmarshi?",
+        "choices": [
+            "Control over senses",
+            "Transcendence of dualities of sorrow and joy",
+            "Knowledge of the Vedas",
+            "Expertise in warfare"
+        ],
+        "correct_answer": "Expertise in warfare"
+    },
+    {
+        "id": 260,
+        "question": "According to the text, which two places did Seetā mention as being 'known for Rāvana's indulgences'?",
+        "choices": [
+            "Lankā and Kishkindhā",
+            "Ashokavātikā and Dandakaranya",
+            "Kailāsh and Ayodhyā",
+            "Lankā and Ashokavātikā"
+        ],
+        "correct_answer": "Lankā and Ashokavātikā"
+    },
+    {
+        "id": 261,
+        "question": "According to the text, why did Rāma call his decision to exile Seetā as ‘a decision made because of destiny’?",
+        "choices": [
+            "He was giving into destiny",
+            "He didn’t have an explanation for why it was happening",
+            "He didn’t want to take the decision",
+            "He knew Seetā will be back"
+        ],
+        "correct_answer": "He didn’t have an explanation for why it was happening"
+    },
+    {
+        "id": 262,
+        "question": "According to the text, who referred to Rāma’s bow as “as big as a rainbow’?",
+        "choices": [
+            "Vibhishana",
+            "Indrajeet",
+            "Māreecha",
+            "Shurpanakhā"
+        ],
+        "correct_answer": "Shurpanakhā"
+    },
+    {
+        "id": 263,
+        "question": "According to the text, what was the name of the place where Hanumāna met Seetā in Lankā?",
+        "choices": [
+            "The palace",
+            "The jungle",
+            "Ashokavātikā",
+            "The seashore"
+        ],
+        "correct_answer": "Ashokavātikā"
+    },
+    {
+        "id": 264,
+        "question": "According to the text, what did Lakshmana call Seetā when he suspected that the cries for help were not of Rāma?",
+        "choices": [
+            "Cowardly",
+            "Uncultured",
+            "Dishonest",
+            "Foul play"
+        ],
+        "correct_answer": "Foul play"
+    },
+    {
+        "id": 265,
+        "question": "According to the text, who did Rāvana describe himself to when he was disguised as a rishi?",
+        "choices": [
+            "The king of Lankā",
+            "A friend of Rāma",
+            "A traveler",
+            "A devotee of Vishnu"
+        ],
+        "correct_answer": "A traveler"
+    },
+    {
+        "id": 266,
+        "question": "According to the text, what was the main emotion that Rāma felt while in vanvās?",
+        "choices": [
+            "Sorrow",
+            "Grief",
+            "Longing for Seeta",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above"
+    },
+    {
+        "id": 267,
+        "question": "According to the text, who was the person who tried to console Seetā after her abduction?",
+        "choices": [
+            "Lakshmana",
+            "Jatāyu",
+            "Trijatā",
+            "Hanumāna"
+        ],
+        "correct_answer": "Trijatā"
+    },
+    {
+        "id": 268,
+        "question": "According to the text, where did Lakshmana and Shatrughna go to spend time with their maternal side?",
+        "choices": [
+            "Mithilā",
+            "Kishkindhā",
+            "Kekaya",
+            "Lankā"
+        ],
+        "correct_answer": "Kekaya"
+    },
+    {
+        "id": 269,
+        "question": "According to the text, what did Rāma tell Lakshmana about the reason to respect Brahmāstra?",
+        "choices": [
+            "To not get killed by the weapon",
+            "To maintain the sanctity of the weapon",
+            "To not attack his enemy",
+            "To learn to use the weapon"
+        ],
+        "correct_answer": "To maintain the sanctity of the Brahmāstra"
+    },
+    {
+        "id": 270,
+        "question": "According to the text, who did Vibhishana insult so that he left Lankā and sought refuge in Rāma?",
+        "choices": [
+            "Indrajeet",
+            "Khara",
+            "Kumbhakarna",
+            "Rāvana"
+        ],
+        "correct_answer": "Rāvana"
+    },
+    {
+        "id": 271,
+        "question": "According to the text, what did Tārā say that a person must not do in anger?",
+        "choices": [
+            "Eat too much",
+            "Give up their position",
+            "Act recklessly",
+            "Seek retribution"
+        ],
+        "correct_answer": "Act recklessly"
+    },
+    {
+        "id": 272,
+        "question": "According to the text, what did Rāma do when he was furious at Varuṇa for not listening to his prayers?",
+        "choices": [
+            "He cried",
+            "He went away",
+            "He threatened to dry the ocean",
+            "He begged him again"
+        ],
+        "correct_answer": "He threatened to dry the ocean"
+    },
+    {
+        "id": 273,
+        "question": "According to the text, how many days did it take to build the bridge across the sea?",
+        "choices": [
+            "Three",
+            "Five",
+            "Seven",
+            "Nine"
+        ],
+        "correct_answer": "Five"
+    },
+    {
+        "id": 274,
+        "question": "According to the text, who was the mother of Rāvana?",
+        "choices": [
+            "Mahātejasvi",
+            "Kaikasi",
+            "Tārā",
+            "Mandodari"
+        ],
+        "correct_answer": "Kaikasi"
+    },
+    {
+        "id": 275,
+        "question": "According to the text, what is the meaning of ‘yojana’?",
+        "choices": [
+            "A mountain",
+            "A river",
+            "A city",
+            "About 8 miles"
+        ],
+        "correct_answer": "About 8 miles"
+    },
+    {
+        "id": 276,
+        "question": "According to the text, which place was also called ‘Suvarnadwipa’?",
+        "choices": [
+            "Lankā",
+            "Bali",
+            "Java",
+            "Sumatra"
+        ],
+        "correct_answer": "Sumatra"
+    },
+    {
+        "id": 277,
+        "question": "According to the text, who was 'a strong person with excessive hunger’?",
+        "choices": [
+            "Vāli",
+            "Kumbhakarna",
+            "Indrajeet",
+            "Māreecha"
+        ],
+        "correct_answer": "Kumbhakarna"
+    },
+    {
+        "id": 278,
+        "question": "According to the text, who was the minister of Sugreeva who had eightfold cognitive abilities?",
+        "choices": [
+            "Nala",
+            "Neela",
+            "Hanumāna",
+            "Jāmbavana"
+        ],
+        "correct_answer": "Hanumāna"
+    },
+    {
+        "id": 279,
+        "question": "According to the text, what was the profession of the father of Shravan who was killed by Dasharatha?",
+        "choices": [
+            "A warrior",
+            "A rishi",
+            "A tapasvi",
+            "A vaidya"
+        ],
+        "correct_answer": "A tapasvi"
+    },
+    {
+        "id": 280,
+        "question": "According to the text, what did Rāma say he wanted from the people of Ayodhyā when he accepted vanvās?",
+        "choices": [
+            "Their support",
+            "Their faith",
+            "Their respect",
+            "Their love and affection"
+        ],
+        "correct_answer": "Their faith"
+    },
+    {
+        "id": 281,
+        "question": "According to the text, what is ‘Yama-danda’?",
+        "choices": [
+            "The sword of Yama",
+            "The baton of the lord of death",
+            "The weapon of Yama",
+            "A thunderbolt of Yama"
+        ],
+        "correct_answer": "The baton of the lord of death"
+    },
+    {
+        "id": 282,
+        "question": "According to the text, which of these was not a city in the kingdom of Kosala?",
+        "choices": [
+            "Ayodhyā",
+            "Shringaverpur",
+            "Panchavati",
+            "None of the above"
+        ],
+        "correct_answer": "Panchavati"
+    },
+    {
+        "id": 283,
+        "question": "According to the text, what was the nature of Rāvana's city, Lankā?",
+        "choices": [
+            "Peaceful and spiritual",
+            "Impoverished and chaotic",
+            "A place of luxury and affluence",
+            "A humble dwelling"
+        ],
+        "correct_answer": "A place of luxury and affluence"
+    },
+    {
+        "id": 284,
+        "question": "According to the text, which place is considered as 'the mouth of the earth'?",
+        "choices": [
+            "Gangotri",
+            "Gomukh",
+            "Prayāg",
+            "Varanasi"
+        ],
+        "correct_answer": "Gomukh"
+    },
+    {
+        "id": 285,
+        "question": "What did Dasharatha say he would leave as a legacy for his son?",
+        "choices": [
+            "His kingdom",
+            "His wealth",
+            "His values and traditions",
+            "A well-protected kingdom"
+        ],
+        "correct_answer": "A well-protected kingdom"
+    },
+    {
+        "id": 286,
+        "question": "According to the text, who is ‘the best of the sages’ who can understand everything?",
+        "choices": [
+            "Rishi Vashishtha",
+            "Rishi Vishvamitra",
+            "Rishi Vālmiki",
+            "Rishi Agastya"
+        ],
+        "correct_answer": "Rishi Vashishtha"
+    },
+    {
+        "id": 287,
+        "question": "According to the text, what does the word ‘shloka’ mean?",
+        "choices": [
+            "A story",
+            "A saying",
+            "A song",
+            "A verse"
+        ],
+        "correct_answer": "A verse"
+    },
+    {
+        "id": 288,
+        "question": "According to the text, who was the one who called Rāma ‘इंद्रोपम’?",
+        "choices": [
+            "Rishi Vishvamitra",
+            "Rishi Vashishtha",
+            "Sugreeva",
+            "A citizen of Ayodhyā"
+        ],
+        "correct_answer": "A citizen of Ayodhyā"
+    },
+    {
+        "id": 289,
+        "question": "According to the text, what did Rāma’s decision to accept exile signify?",
+        "choices": [
+            "His anger",
+            "His surrender to destiny",
+            "His devotion to his father",
+            "His indifference to the kingdom"
+        ],
+        "correct_answer": "His devotion to his father"
+    },
+    {
+        "id": 290,
+        "question": "According to the text, what did Indrajeet use to render Rāma and Lakshmana unconscious?",
+        "choices": [
+            "Brahmāstra",
+            "Nāgapāsh",
+            "Agneyāstra",
+            "Vayavyāstra"
+        ],
+        "correct_answer": "Nāgapāsh"
+    },
+    {
+        "id": 291,
+        "question": "According to the text, what was one of the qualities of those who followed Vāli?",
+        "choices": [
+            "They were fearful of Vāli",
+            "They were loyal to Vāli",
+            "They were easily manipulated",
+            "They were great warriors"
+        ],
+        "correct_answer": "They were easily manipulated"
+    },
+    {
+        "id": 292,
+        "question": "According to the text, what did Vibhishana tell Rāvana about the consequences of his actions?",
+        "choices": [
+            "That Rāvana would become immortal",
+            "That he was challenging the devas",
+            "That he was bringing destruction upon Lankā",
+            "That he would lose all his wealth"
+        ],
+        "correct_answer": "That he was bringing destruction upon Lankā"
+    },
+    {
+        "id": 293,
+        "question": "According to the text, what was the name of the place where Tātakā caused devastation?",
+        "choices": [
+            "Panchavati",
+            "Ayodhyā",
+            "Maladā and Karushā",
+            "Dandakāranya"
+        ],
+        "correct_answer": "Maladā and Karushā"
+    },
+    {
+        "id": 294,
+        "question": "According to the text, who did Rāma say were the ‘Lord of Death’?",
+        "choices": [
+            "Vāli",
+            "Rāvana and Kumbhakarna",
+            "The rakshasas",
+            "Māreecha and Subāhu"
+        ],
+        "correct_answer": "Māreecha and Subāhu"
+    },
+    {
+        "id": 295,
+        "question": "According to the text, how many days did it take for Rāma and his group to reach Siddhāshram?",
+        "choices": [
+            "One day",
+            "Two days",
+            "Three days",
+            "Four days"
+        ],
+        "correct_answer": "Four days"
+    },
+    {
+        "id": 296,
+        "question": "According to the text, which river bank did Rāma and Lakshmana stay by during the first night of their exile?",
+        "choices": [
+            "Sarayu",
+            "Gangā",
+            "Tamasā",
+            "Yamuna"
+        ],
+        "correct_answer": "Tamasā"
+    },
+    {
+        "id": 297,
+        "question": "According to the text, which of Rāma's relatives were upset by his decision to accept vanvās?",
+        "choices": [
+            "Only his father",
+            "Only his mother",
+            "His family and people of Ayodhyā",
+            "His brothers"
+        ],
+        "correct_answer": "His family and people of Ayodhyā"
+    },
+    {
+        "id": 298,
+        "question": "According to the text, where did Dasharatha order Kaikeyi to be removed from?",
+        "choices": [
+            "His kingdom",
+            "His palace",
+            "His household",
+            "His presence"
+        ],
+        "correct_answer": "His presence"
+    },
+    {
+        "id": 299,
+        "question": "According to the text, what was the first thing Rāma did after crossing the river Ganga?",
+        "choices": [
+            "He rested",
+            "He looked around",
+            "He drank water from the river",
+            "He received the knowledge of Bala-Atibalā"
+        ],
+        "correct_answer": "He received the knowledge of Bala-Atibalā"
+    },
+    {
+        "id": 300,
+        "question": "According to the text, who gave the pushpak vimān to Kuber?",
+        "choices": [
+            "Brahma deva",
+            "Vishnu",
+            "Shiva",
+            "Indra"
+        ],
+        "correct_answer": "Brahma deva"
+    },
+    {
+        "id": 301,
+        "question": "According to the text, where did Rāvana start to plot to acquire Seetā?",
+        "choices": [
+            "In Lankā",
+            "In Janasthāna",
+            "In the forest",
+            "In the mountains"
+        ],
+        "correct_answer": "In Janasthāna"
+    },
+    {
+        "id": 302,
+        "question": "According to the text, how did Jatāyu die?",
+        "choices": [
+            "He was killed by Rāma",
+            "He was killed by Lakshmana",
+            "He was fatally injured by Rāvana",
+            "He was killed by the rakshasas"
+        ],
+        "correct_answer": "He was fatally injured by Rāvana"
+    },
+    {
+        "id": 303,
+        "question": "According to the text, what was it that impressed Rāma greatly about Hanumāna?",
+        "choices": [
+            "His strength",
+            "His wisdom",
+            "His skill in warfare",
+            "His body language"
+        ],
+        "correct_answer": "His body language"
+    },
+    {
+        "id": 304,
+        "question": "According to the text, where did Lakshmana and Seetā hear Rāma's cry for help?",
+        "choices": [
+            "In the āshram",
+            "By the river",
+            "In the forest",
+            "On a mountain"
+        ],
+        "correct_answer": "In the āshram"
+    },
+    {
+        "id": 305,
+        "question": "According to the text, where did Vāli finally meet his death?",
+        "choices": [
+            "In the battlefield",
+            "In the forest",
+            "In his palace",
+            "In a mountain pass"
+        ],
+        "correct_answer": "In the forest"
+    },
+    {
+        "id": 306,
+        "question": "According to the text, what was the name of the divine weapon used by Indrajeet to make Rāma and Lakshmana unconscious?",
+        "choices": [
+            "Brahmāstra",
+            "Agneyāstra",
+            "Nāgapāsh",
+            "Vayavyāstra"
+        ],
+        "correct_answer": "Brahmāstra"
+    },
+    {
+        "id": 307,
+        "question": "According to the text, what did Lakshmana advise Sugreeva when he was overcome by remorse for his misdeeds?",
+        "choices": [
+            "To meditate",
+            "To do penance",
+            "To be a better king",
+            "To live an austere life"
+        ],
+        "correct_answer": "To be a better king"
+    },
+    {
+        "id": 308,
+        "question": "According to the text, what did Tārā tell Vāli about why he should avoid antagonising Rāma?",
+        "choices": [
+            "She knew they were powerful",
+            "She knew they would bring destruction",
+            "She knew they were not Vāli's enemies",
+            "She knew they were being supported by a powerful person"
+        ],
+        "correct_answer": "She knew they were being supported by a powerful person"
+    },
+    {
+        "id": 309,
+        "question": "According to the text, what was the cause of the sound that Rāma heard by the Gangā river?",
+        "choices": [
+            "The sound of celestial beings",
+            "The sound of wild animals",
+            "The sound of water surging in the river",
+            "The sound of the wind blowing in the forest"
+        ],
+        "correct_answer": "The sound of water surging in the river"
+    },
+    {
+        "id": 310,
+        "question": "According to the text, who was the first king to be defeated by Rāvana on his conquest across Bhāratavarsha?",
+        "choices": [
+            "Vāli",
+            "Arjun",
+            "Indra",
+            "Dasharatha"
+        ],
+        "correct_answer": "Arjun"
+    },
+    {
+        "id": 311,
+        "question": "According to the text, what was the cause of the sudden halt of the Pushpak Vimāna for Rāvana in Kailash?",
+        "choices": [
+            "The power of Shiva",
+            "The power of the devas",
+            "The curse of Nandi",
+            "It got damaged"
+        ],
+        "correct_answer": "The curse of Nandi"
+    },
+    {
+        "id": 312,
+        "question": "According to the text, what is the name of the instrument that Vashishtha used which had great power?",
+        "choices": [
+            "Dhanush",
+            "Bān",
+            "Danda",
+            "Katar"
+        ],
+        "correct_answer": "Danda"
+    },
+    {
+        "id": 313,
+        "question": "According to the text, who said this, ‘You have destroyed this āshram which was so lovingly built by me'?",
+        "choices": [
+            "Rishi Vishvamitra",
+            "Rishi Vashishtha",
+            "Rishi Agastya",
+            "Rishi Vālmiki"
+        ],
+        "correct_answer": "Rishi Vashishtha"
+    },
+    {
+        "id": 314,
+        "question": "According to the text, what is the meaning of ‘agni pariksha’?",
+        "choices": [
+            "A fire ritual",
+            "A fire purification",
+            "A test by fire",
+            "An oblation to fire"
+        ],
+        "correct_answer": "A test by fire"
+    },
+    {
+        "id": 315,
+        "question": "According to the text, who was the one who first recognized Rāma when he was about to be crowned as prince?",
+        "choices": [
+            "Kaikeyi",
+            "Manthara",
+            "Bharata",
+            "Nārada Muni"
+        ],
+        "correct_answer": "Nārada Muni"
+    },
+    {
+        "id": 316,
+        "question": "According to the text, what did Brahma deva say about the Ramayana?",
+        "choices": [
+            "It will be forever remembered by the people of the world",
+            "It will be useful in the future",
+            "It will teach people to live a happy life",
+            "It will flourish in the world as long as the mountains and rivers exist"
+        ],
+        "correct_answer": "It will flourish in the world as long as the mountains and rivers exist"
+    },
+    {
+        "id": 317,
+        "question": "According to the text, who had a ‘good control over their senses’?",
+        "choices": [
+            "Rāvana",
+            "Sugreeva",
+            "Bharata",
+            "Rāma"
+        ],
+        "correct_answer": "Rāma"
+    },
+    {
+        "id": 318,
+        "question": "According to the text, what was the purpose for the creation of the artificial heaven by Kaushika?",
+        "choices": [
+            "To become more powerful",
+            "To fulfil the desire of Trishanku",
+            "To anger his guru",
+            "To attain immortality"
+        ],
+        "correct_answer": "To fulfil the desire of Trishanku"
+    },
+    {
+        "id": 319,
+        "question": "According to the text, what did Rāma say about the importance of fulfilling one's promise?",
+        "choices": [
+            "It is just an option",
+            "It should be avoided, when not suitable",
+            "It is an obligation of the king",
+            "It is a virtue everyone should abide by"
+        ],
+        "correct_answer": "It is a virtue everyone should abide by"
+    },
+    {
+        "id": 320,
+        "question": "According to the text, what was the nature of Vāli's anger?",
+        "choices": [
+            "It was controlled",
+            "It was always justified",
+            "It was always strategic",
+            "It was short-tempered and reckless"
+        ],
+        "correct_answer": "It was short-tempered and reckless"
+    },
+    {
+        "id": 321,
+        "question": "According to the text, what is the meaning of dharma?",
+        "choices": [
+            "The eternal religion",
+            "The law of the land",
+            "The principle of righteousness",
+            "The principle that leads to sustainability of society"
+        ],
+        "correct_answer": "The principle that leads to sustainability of society"
+    },
+    {
+        "id": 322,
+        "question": "According to the text, what did Tārā say was the correct path for Vāli in his last moments?",
+        "choices": [
+            "To seek revenge on Sugreeva",
+            "To seek revenge on Rāma",
+            "To seek peace with Sugreeva and Rāma",
+            "To kill Sugreeva and become all powerful"
+        ],
+        "correct_answer": "To seek peace with Sugreeva and Rāma"
+    },
+    {
+        "id": 323,
+        "question": "According to the text, how many years had Rāma spent in Chitrakoot?",
+        "choices": [
+            "One month",
+            "One year",
+            "Two years",
+            "Three years"
+        ],
+        "correct_answer": "One year"
+    },
+    {
+        "id": 324,
+        "question": "According to the text, what was one of the duties of a king?",
+        "choices": [
+            "To live a luxurious life",
+            "To protect his people",
+            "To conquer other kingdoms",
+            "To build the biggest palace"
+        ],
+        "correct_answer": "To protect his people"
+    },
+    {
+        "id": 325,
+        "question": "According to the text, where did the four brothers of Rāma perform their final rites for their father?",
+        "choices": [
+            "In Ayodhyā",
+            "In the forests",
+            "At the banks of the Gangā",
+            "At the ashram of Rishi Vashishtha"
+        ],
+        "correct_answer": "In Ayodhyā"
+    },
+    {
+        "id": 326,
+        "question": "According to the text, what did Rāma consider most important for a king?",
+        "choices": [
+            "The wealth of the kingdom",
+            "The size of the kingdom",
+            "The welfare of the citizens",
+            "The love and affection of the citizens"
+        ],
+        "correct_answer": "The welfare of the citizens"
+    },
+    {
+        "id": 327,
+        "question": "According to the text, what does ‘yajna vedi’ mean?",
+        "choices": [
+            "A sacred mountain",
+            "A sacred river",
+            "A sacred fire altar",
+            "A sacred building"
+        ],
+        "correct_answer": "A sacred fire altar"
+    },
+    {
+        "id": 328,
+        "question": "According to the text, who was the one who was ready to break a rule at the first available opportunity?",
+        "choices": [
+            "Rāma",
+            "Lakshmana",
+            "Krishna",
+            "Vibhishana"
+        ],
+        "correct_answer": "Krishna"
+    },
+    {
+        "id": 329,
+        "question": "According to the text, what is a ‘sārthi’?",
+        "choices": [
+            "A warrior",
+            "A messenger",
+            "A charioteer",
+            "A spy"
+        ],
+        "correct_answer": "A charioteer"
+    },
+    {
+        "id": 330,
+        "question": "According to the text, what was the reason that Rāvana did not force himself on Seetā?",
+        "choices": [
+            "He respected women",
+            "He was scared of her curse",
+            "He was waiting for her consent",
+            "He was not interested in her"
+        ],
+        "correct_answer": "He was scared of her curse"
+    },
+    {
+        "id": 331,
+        "question": "According to the text, what was the name of the celestial weapon used by Rāma to pierce Rāvana’s chest?",
+        "choices": [
+            "Brahmāstra",
+            "Pāshupatāstra",
+            "Agneyāstra",
+            "None of these"
+        ],
+        "correct_answer": "None of these"
+    },
+    {
+        "id": 332,
+        "question": "According to the text, what was the curse of Nandi on Rāvana?",
+        "choices": [
+            "He would die a painful death",
+            "He would lose his kingdom",
+            "He would become immortal",
+            "That he would be killed by vānaras"
+        ],
+        "correct_answer": "That he would be killed by vānaras"
+    },
+    {
+        "id": 333,
+        "question": "According to the text, where does a rishi seek his strength from?",
+        "choices": [
+            "From the devas",
+            "From the power of mantra",
+            "From his innate strength",
+            "From the power of nature"
+        ],
+        "correct_answer": "From his innate strength"
+    },
+    {
+        "id": 334,
+        "question": "According to the text, what was one of the primary functions of a ‘rishi’?",
+        "choices": [
+            "To create laws and rules",
+            "To teach Vedas and scriptures",
+            "To fight wars for the kings",
+            "To accumulate wealth"
+        ],
+        "correct_answer": "To teach Vedas and scriptures"
+    },
+    {
+        "id": 335,
+        "question": "According to the text, which of these was not one of the qualities of a good minister?",
+        "choices": [
+            "Courageous",
+            "Incorruptible",
+            "Always happy and content",
+            "Have expertise in their field"
+        ],
+        "correct_answer": "Always happy and content"
+    },
+    {
+        "id": 336,
+        "question": "According to the text, what is the ideal conduct of a good minister?",
+        "choices": [
+            "Should always agree with the king",
+            "Should always seek to please the king",
+            "Should give uninhibited opinions in the interest of the kingdom",
+            "Should never offer opinions to the king"
+        ],
+        "correct_answer": "Should give uninhibited opinions in the interest of the kingdom"
+    },
+    {
+        "id": 337,
+        "question": "According to the text, what was one of the reasons that prompted Rāma to revisit the Rāmāyana?",
+        "choices": [
+            "To create a more accurate version",
+            "To add new characters",
+            "To develop a better perspective towards our own lives",
+            "To make it more interesting"
+        ],
+        "correct_answer": "To develop a better perspective towards our own lives"
+    },
+    {
+        "id": 338,
+        "question": "According to the text, what did Rāma say his purpose was in going to Lankā?",
+        "choices": [
+            "To avenge the death of Jatāyu",
+            "To win the war against Rāvana",
+            "To save Seetā from her captors",
+            "To remove the stigma from his family name"
+        ],
+        "correct_answer": "To remove the stigma from his family name"
+    },
+    {
+        "id": 339,
+        "question": "According to the text, who was ‘the one who had the boon to get back whatever she gives away’?",
+        "choices": [
+            "Menakā",
+            "Ahalyā",
+            "Shabari",
+            "Anusuyā"
+        ],
+        "correct_answer": "Anusuyā"
+    },
+    {
+        "id": 340,
+        "question": "According to the text, who was ‘The embodiment of dharma’?",
+        "choices": [
+            "Krishna",
+            "Lakshmana",
+            "Rāma",
+            "Vibhishana"
+        ],
+        "correct_answer": "Rāma"
+    },
+    {
+        "id": 341,
+        "question": "According to the text, who was the ‘most compassionate among the gods’?",
+        "choices": [
+            "Shiva",
+            "Vishnu",
+            "Indra",
+            "Brahma deva"
+        ],
+        "correct_answer": "Shiva"
+    },
+    {
+        "id": 342,
+        "question": "According to the text, what did Rāvana order his sārthi to do when he was unable to defeat Rāma?",
+        "choices": [
+            "To carry him away from the battlefield",
+            "To go back to the palace",
+            "To seek help from his ministers",
+            "To fight Rāma"
+        ],
+        "correct_answer": "To carry him away from the battlefield"
+    },
+    {
+        "id": 343,
+        "question": "According to the text, who is believed to be the most skilled warrior in Rāvana's army?",
+        "choices": [
+            "Kumbhakarna",
+            "Prahasta",
+            "Indrajeet",
+            "Māreecha"
+        ],
+        "correct_answer": "Indrajeet"
+    },
+    {
+        "id": 344,
+        "question": "According to the text, who had the power to tie down the opponent in the war of Rāmāyana?",
+        "choices": [
+            "Rāma",
+            "Lakshmana",
+            "Vāli",
+            "Indrajeet"
+        ],
+        "correct_answer": "Indrajeet"
+    },
+    {
+        "id": 345,
+        "question": "According to the text, what did Lakshmana use to finally kill Indrajeet?",
+        "choices": [
+            "Brahmāstra",
+            "Pāshupatāstra",
+            "Aindrāstra",
+            "Vayavyāstra"
+        ],
+        "correct_answer": "Aindrāstra"
+    },
+    {
+        "id": 346,
+        "question": "According to the text, what did Hanumāna’s display in Lankā demonstrate?",
+        "choices": [
+            "That he was a great devotee of Rāma",
+            "That he was a loyal servant of Sugreeva",
+            "That he was extremely powerful",
+            "That his strength is more than that of Rāvana"
+        ],
+        "correct_answer": "That he was extremely powerful"
+    },
+    {
+        "id": 347,
+        "question": "According to the text, which person was described as ‘the heart of dharma’?",
+        "choices": [
+            "Lakshmana",
+            "Vibhishana",
+            "Hanumāna",
+            "Rāma"
+        ],
+        "correct_answer": "Rāma"
+    },
+    {
+        "id": 348,
+        "question": "According to the text, what does 'moksha' mean?",
+        "choices": [
+            "Liberation from the cycle of life and death",
+            "Righteousness and enterprise",
+            "Desire and pleasure",
+            "Wealth and prosperity"
+        ],
+        "correct_answer": "Liberation from the cycle of life and death"
+    },
+    {
+        "id": 349,
+        "question": "According to the text, who was the queen of Ayodhyā during Rāma’s exile?",
+        "choices": [
+            "Kaushalyā",
+            "Seetā",
+            "Kaikeyi",
+            "There was no queen"
+        ],
+        "correct_answer": "There was no queen"
+    },
+    {
+        "id": 350,
+        "question": "According to the text, who gave the boon of making Rāvana near immortal?",
+        "choices": [
+            "Indra",
+            "Vishnu",
+            "Brahma deva",
+            "Shiva"
+        ],
+        "correct_answer": "Brahma deva"
+    },
+    {
+        "id": 351,
+        "question": "According to the text, which of these was not an intended quality of the people of Rāma's kingdom?",
+        "choices": [
+            "Contented",
+            "Healthy",
+            "Righteous",
+            "Rich"
+        ],
+        "correct_answer": "Rich"
+    },
+    {
+        "id": 352,
+        "question": "According to the text, who was described as the most learned among all the vānaras?",
+        "choices": [
+            "Vāli",
+            "Sugreeva",
+            "Jāmbavana",
+            "Hanumāna"
+        ],
+        "correct_answer": "Hanumāna"
+    }
+]
