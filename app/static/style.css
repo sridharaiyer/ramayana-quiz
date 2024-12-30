@@ -14,7 +14,7 @@ body {
 h1.title {
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    font-size: 7em;
+    font-size: 6em;
     /* Reduced font size to make it more proportional */
     margin: 20px 0;
 }
@@ -27,6 +27,12 @@ h2 {
     text-align: center;
     /* Center align the text */
 }
+
+.logo {
+    max-width: 300px;
+    margin-bottom: 10px;
+}
+
 
 .container {
     display: flex;
