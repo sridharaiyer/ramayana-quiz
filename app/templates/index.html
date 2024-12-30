@@ -2,13 +2,39 @@
 <html>
 
 <head>
-    <title>Quiz App</title>
+    <title>Ramayanam Quiz App</title>
+    <!-- Import Google Icon Font -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- Import Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
+    <!-- Import materialize.css -->
+    <link type="text/css" rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+        media="screen,projection" />
+    <!-- Let browser know website is optimized for mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="{{ url_for('static', path='style.css') }}">
 </head>
 
 <body>
-    <h1>Welcome to the Quiz</h1>
-    <a href="/quiz">Start a New Quiz</a>
+    <div class="container">
+        <div class="center-align">
+            <!-- Add the logo -->
+            <img src="{{ url_for('static', path='ramayana-logo.png') }}" alt="Logo" class="logo">
+            <!-- Title text -->
+            <h1 class="title">Srimad Ramayanam Quiz</h1>
+        </div>
+        <div class="row">
+            <div class="col s12 m6 offset-m3 center-align">
+                <a href="/quiz" class="btn-large waves-effect waves-light blue">Start a New Quiz</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Import jQuery before materialize.js -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 </body>
 
 </html>

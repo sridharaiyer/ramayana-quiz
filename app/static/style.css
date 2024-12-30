@@ -1,14 +1,54 @@
+/* General Styling */
 body {
     font-family: sans-serif;
-    margin: 20px;
+    margin: 0;
+    padding: 0;
     background-color: #f0f0f0;
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 20px;
 }
 
-h1 {
+/* General h1.title styling */
+h1.title {
+    font-family: 'Roboto', sans-serif;
     text-align: center;
+    font-size: 6em;
+    /* Reduced font size to make it more proportional */
+    margin: 20px 0;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    /* Use a better font */
+    font-size: 4em;
+    /* Increase font size */
+    text-align: center;
+    /* Center align the text */
+}
+
+.logo {
+    max-width: 300px;
+    margin-bottom: 10px;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* Make the container fill the entire viewport height */
+}
+
+/* Specific styles for the title on the index page */
+.container .title {
+    font-size: 4em;
+    /* Adjust font size for the index page title */
+    max-width: 90%;
+    /* Limit the width to prevent overflowing */
 }
 
 .question-container {
@@ -27,7 +67,10 @@ h1 {
 
 .question {
     font-weight: bold;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
+    font-size: 4em;
+    margin-top: 0;
+    /* Remove top margin */
 }
 
 button {
@@ -55,19 +98,22 @@ a:hover {
 }
 
 .result-heading {
-    font-size: 2.5em;
+    font-size: 5.5em;
     margin-bottom: 20px;
     text-align: center;
 }
 
 .result-text {
-    font-size: 1.5em;
+    font-size: 3.5em;
     margin-bottom: 20px;
     text-align: center;
     font-weight: bold;
     padding: 10px;
     border-radius: 8px;
-
+    width: 90%;
+    /* Increased width */
+    max-width: 800px;
+    /* Set a maximum width */
 }
 
 .congrats {
@@ -87,14 +133,101 @@ a:hover {
 
 .correct-answers-container {
     margin-bottom: 20px;
-    width: 80%;
-    max-width: 600px;
+    width: 90%;
+    /* Increased width */
+    max-width: 800px;
+    /* Set a maximum width */
+    display: flex;
+    /* Make it a flex container */
+    flex-direction: column;
+    /* Arrange items vertically */
+    gap: 47px;
+    /* Add spacing between the items */
 }
 
 .incorrect-answer {
+    font-size: 3.5em;
     background-color: white;
     padding: 10px;
-    margin: 10px 0;
+    margin: 0;
+    /* Remove margin since gap handles spacing */
     border-radius: 5px;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Question Item Styling */
+.question-item {
+    background-color: white;
+    padding: 10px 15px 20px 15px;
+    /* Adjusted padding */
+    margin: 5px 0;
+    /* Reduced top margin */
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 800px;
+    margin-bottom: 30px;
+}
+
+.choices-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    /* Slightly larger gap for better readability */
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    /* Center align the submit button */
+    align-items: center;
+    margin-top: 20px;
+}
+
+.button-container button {
+    font-size: 3.5em;
+    /* Set font size for the submit button */
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+}
+
+.button-container button:hover {
+    background-color: #0056b3;
+}
+
+.link-container {
+    text-align: center;
+    /* Center align the back to home link */
+    margin-top: 30px;
+}
+
+.link-container a {
+    font-size: 3.5em;
+    /* Increase font size for the back to home link */
+    color: #007bff;
+    text-decoration: none;
+}
+
+.link-container a:hover {
+    text-decoration: underline;
+}
+
+.choice-label {
+    font-size: 4em;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    /* Increased gap between the radio button and the choice text */
+}
+
+.choice-label input[type="radio"] {
+    transform: scale(2);
+    /* Increase the size of the radio button */
 }
