@@ -7,26 +7,29 @@
 </head>
 
 <body>
-    <h1>Quiz</h1>
+    <h1 class="title">Quiz</h1>
     <form action="/submit_quiz" method="post">
         {% for question in questions %}
-        <div class="question-container">
+        <div class="question-item">
             <p class="question">{{ loop.index }}. {{ question.question }}</p>
             <div class="choices-container">
                 {% for choice in question.choices %}
-                <label>
+                <label class="choice-label">
                     <input type="radio" name="question_{{ question.id }}" value="{{ choice }}" {% if
                         user_answers.get('question_' + question.id|string )==choice %}checked{% endif %}>
                     {{ choice }}
-                </label><br>
+                </label>
                 {% endfor %}
             </div>
         </div>
         {% endfor %}
-        <br>
-        <button type="submit">Submit Quiz</button>
+        <div class="button-container">
+            <button type="submit">Submit Quiz</button>
+        </div>
+        <div class="link-container">
+            <a href="/" class="button">Back to Home</a>
+        </div>
     </form>
-    <a href="/">Back to Home</a>
 </body>
 
 </html>
